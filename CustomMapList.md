@@ -43,6 +43,7 @@
 | 2013-03-03 | 2192008736 | 未命名 | Untitled | Tpsoete | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=RvNalqyCJz4)<br />[LacuS: Custom Level 5](https://www.youtube.com/watch?v=TUPGZlt9o1M) |
 | 2013-05-04 | 2307049046 | 探险之路 | Adventure Road | Burning红云 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=g0oVaPcgs6A)<br />[LacuS: Custom Level 70](https://www.youtube.com/watch?v=XaSy03otqg4) |
 | 2013-09-01 | 2568885068  | 平衡小径2.2 | Ballance Trail 2.2 | Burning红云 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=ovGTJG9nNCU)<br />[LacuS: Custom Level 85](https://www.youtube.com/watch?v=ae8fLjXSa0Y) |
+| (~2013-08-06~) |  | 急速滚球-跳跃世界 | Rapidly Rolling Ball - Jump World | 是♂不是♀ | 俊杰大兔子 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=k1cn_SQUHyI) |
 | (~2013-10-19) |  | 死亡边缘V2.0 | Edge of Death V2.0 | lydjjlyd | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=fY3HrxRRoIU)<br />[LacuS: Custom Level 75](https://www.youtube.com/watch?v=2V5MonOpkaY) |
 | (~2013-10-19) |  | 死亡边缘V3.0 | Edge of Death V3.0 | lydjjlyd | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=UCInQwLLy6I) |
 | (~2013-10-19) |  | 挑战极限1.0 | Push the Envelope 1.0 | lydjjlyd | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=2feB5D1ffs8) |
@@ -56,6 +57,7 @@
 | 2014-08-07 | 3215309771 | 创意平衡 | Creative Ballance | fiype | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=sHEwvl_VVQI) |
 | (2014-08-07~26) |  | 平衡小径3.2 | Ballance Trail 3.2 | Burning红云 | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=voJh1dl87sM) |
 | (2014-08-26~09-08) |  | Easy-small | Easy-small | fiype | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=rH4fVhoqwKs) |
+| 2014-08-27 | 3259568908 | 平衡视窗V1.1 | Ballance Windows V1.1 | hhmmdd123 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=aEHcbcRdSog)<br />[LacuS: Custom Level 11](https://www.youtube.com/watch?v=sOgcf8fSmoA) |
 | 2014-10-06 | 3334670701 | 十字街道(正式版) | Cross Street (Gold) | 平衡四边球 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ftvmTnp5kUg) |
 | 2014-10-06 | 3334670701 | 十字街道(终极考核) | Cross Street (Ultimate Evaluation) | 平衡四边球 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=xifAiVuaarA) |
 | 2015-02-13 | 3583656123 | Ballance嘉年华V2.5 | Ballance Carnival V2.5 | ZYL | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=FJJ49bM_jsU) |
@@ -133,3 +135,4 @@
 | 2022-11-13 |  | A Small Challenge | A Small Challenge | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=oZGMDlS4p_Q) |
 | 2022-11-16 | 8145996315 | 游记：绚烂星空 | Travel: Gorgeous Starry Sky | 其乐融 | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=y24pcTVrDt8) |
 | 2022-11-20 |  | Sky Run | Sky Run | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=V8KCl3xggW8) |
+| 2022-11-25 | 8159356350 | 璀璨星河 | Bright Galaxy | 其乐融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=xqcHwkeaqDs) |
