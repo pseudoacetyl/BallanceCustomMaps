@@ -5,46 +5,46 @@
 | 2009-08-26 | 634504348 | 十字升降 | Cross Lift | 失衡技师 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=a9G-BC3krCc)<br />[LacuS: Custom Level 6](https://www.youtube.com/watch?v=TIDXMaaKnQ8) |
 | 2009-08-26 | 732291025、732498462 | 美丽图 | Beautiful | 傲骨银狼ヶ璇 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=4gs1JGqWF5I) |
 | (2010-04-17) |  | 脓图 | Dense  | 傲骨银狼ヶ璇 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=prKMW4kitZ4) |
-| (~2010-04-18) |  | 演示地图V1.0 | Demo Level V1.0 | (Anonymous) | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=DVu6RwJ23do)<br />[LacuS: Custom Level 52](https://www.youtube.com/watch?v=AnwGRJpt9OQ) |
-| (~2014-01-22) |  | 演示地图V2.0 | Demo Level V2.0 | (Anonymous) | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=Fe2yQKVk27A)<br />[LacuS: Custom Level 12](https://www.youtube.com/watch?v=PiMltxNdxsA) |
+| (\~2010-04-18) |  | 演示地图V1.0 | Demo Level V1.0 | (Anonymous) | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=DVu6RwJ23do)<br />[LacuS: Custom Level 52](https://www.youtube.com/watch?v=AnwGRJpt9OQ) |
+| (\~2014-01-22) |  | 演示地图V2.0 | Demo Level V2.0 | (Anonymous) | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=Fe2yQKVk27A)<br />[LacuS: Custom Level 12](https://www.youtube.com/watch?v=PiMltxNdxsA) |
 | (2010-04-22) |  | 美丽美丽材质图 | Extremely Beautiful Material | 傲骨银狼ヶ璇 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=3V2q0C-iqQU) |
-| (~2010-05-28) |  | 棒冰图 | Popsicle | 61粉丝 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qb1NR9f8W28) |
-| (~2010-09-21) |  | 不走回头路V1.0 | Never Walk Back V1.0 | oing9179 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=MqdWEQ6KpMc)<br />[LacuS: Custom Level 98](https://www.youtube.com/watch?v=16g_El-XA24) |
-| (~2011-01-03) |  | 秘密行走 | Sneak | 2jjy | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=acx_1TRQh0U)<br />[LacuS: Custom Level 8](https://www.youtube.com/watch?v=FWejdShDBtM) |
-| (~2011-01-14) |  | 新春地图 | Lunar New Year | 2jjy & jxpxxzj | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=srnkECiJT-8) |
+| (\~2010-05-28) |  | 棒冰图 | Popsicle | 61粉丝 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qb1NR9f8W28) |
+| (\~2010-09-21) |  | 不走回头路V1.0 | Never Walk Back V1.0 | oing9179 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=MqdWEQ6KpMc)<br />[LacuS: Custom Level 98](https://www.youtube.com/watch?v=16g_El-XA24) |
+| (\~2011-01-03) |  | 秘密行走 | Sneak | 2jjy | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=acx_1TRQh0U)<br />[LacuS: Custom Level 8](https://www.youtube.com/watch?v=FWejdShDBtM) |
+| (\~2011-01-14) |  | 新春地图 | Lunar New Year | 2jjy & jxpxxzj | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=srnkECiJT-8) |
 | 2011-01-16 | 978006131 | 双轨世界加长 | World of Double Rails Plus | 组mn | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=zHoWGzwJaus) |
-| (~2011-03-12) |  | 不走回头路V2.0 | Never Walk Back V2.0 | oing9179 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5FhPGf9Dpvg)<br />[LacuS: Custom Level 64](https://www.youtube.com/watch?v=tTTs5x47s-A) |
-| (2011-04-24~28) |  | 魔脓空间站 | Exaggeratedly Dense Space Station | 傲骨银狼ヶ璇 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=32_iX9Kqay4) |
-| (~2011-03-12) |  | 不走回头路V3.0 | Never Walk Back V3.0 | oing9179 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5ULeRuhCkp4) |
-| (~2011-04-29) |  | 单轨世界V1.0 | World of Single Rails V1.0 | lydjjlyd | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=9G6BDh4CDlY)<br />[LacuS: Custom Level 1](https://www.youtube.com/watch?v=kLYH3UQFNHo) |
-| (~2011-04-29) |  | 单轨世界V2.0 | World of Single Rails V2.0 | lydjjlyd | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=656ntp0jEO0)<br />[LacuS: Custom Level 30](https://www.youtube.com/watch?v=Q6Yno1tGf_I) |
-| (~2011-11-12) |  | BT图 | Abnormal | 61粉丝 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ElYmN9sGbgA) |
+| (\~2011-03-12) |  | 不走回头路V2.0 | Never Walk Back V2.0 | oing9179 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5FhPGf9Dpvg)<br />[LacuS: Custom Level 64](https://www.youtube.com/watch?v=tTTs5x47s-A) |
+| (2011-04-24\~28) |  | 魔脓空间站 | Exaggeratedly Dense Space Station | 傲骨银狼ヶ璇 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=32_iX9Kqay4) |
+| (\~2011-03-12) |  | 不走回头路V3.0 | Never Walk Back V3.0 | oing9179 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5ULeRuhCkp4) |
+| (\~2011-04-29) |  | 单轨世界V1.0 | World of Single Rails V1.0 | lydjjlyd | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=9G6BDh4CDlY)<br />[LacuS: Custom Level 1](https://www.youtube.com/watch?v=kLYH3UQFNHo) |
+| (\~2011-04-29) |  | 单轨世界V2.0 | World of Single Rails V2.0 | lydjjlyd | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=656ntp0jEO0)<br />[LacuS: Custom Level 30](https://www.youtube.com/watch?v=Q6Yno1tGf_I) |
+| (\~2011-11-12) |  | BT图 | Abnormal | 61粉丝 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ElYmN9sGbgA) |
 | 2011-12-04 | 1309737138 | Ballance Wooden | Ballance Wooden | 2jjy & BallanceBug | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=XxOlaR-xctY) |
 | 2012-01-03 | 1350884058 | Ballance嘉年华V1.1 | Ballance Carnival V1.1 | fiype | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=pM01nIBerVE) |
 | 2012-01-10 | 1361530085 | 垂直迷阵 | Vertical Maze | 飝快de时间 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=UMpK67Mz27w) |
 | 2012-01-14 | 1366764815 | 伪·能力V1.0 | Fake Ability V1.0 | fiype | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=8No1MERgEAo) |
-| (~2012-01-21) |  | 小小迷宫 | A Little Maze | 2jjy | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=kk2HOkUs09s)<br />[LacuS: Custom Level 20](https://www.youtube.com/watch?v=YIt0W6zB-sc) |
-| (~2012-01-21) |  | 力量V1.0(重做版) | Strength V1.0 (Remake) | lydjjlyd | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=IQAEVgVRQQc) |
+| (\~2012-01-21) |  | 小小迷宫 | A Little Maze | 2jjy | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=kk2HOkUs09s)<br />[LacuS: Custom Level 20](https://www.youtube.com/watch?v=YIt0W6zB-sc) |
+| (\~2012-01-21) |  | 力量V1.0(重做版) | Strength V1.0 (Remake) | lydjjlyd | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=IQAEVgVRQQc) |
 | 2012-01-25 | 1387336005 | 伪·能力V2.0 | Fake Ability V2.0 | fiype | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=mhZPZUcINqg)<br />[LacuS: Custom Level 35](https://www.youtube.com/watch?v=96sGquhnwPk) |
-| (~2012-02-12) |  | 死亡边缘V1.0 | Edge of Death V1.0 | lydjjlyd | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=HZZ8x16Bw34)<br />[LacuS: Custom Level 50](https://www.youtube.com/watch?v=yfwZJ7zbzS4) |
-| (~2012-02-27) |  | 完美思维V1.0 | Perfect Thinking V1.0 | 金银铃控 & ageofballance | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=RyLhCmM15l0) |
+| (\~2012-02-12) |  | 死亡边缘V1.0 | Edge of Death V1.0 | lydjjlyd | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=HZZ8x16Bw34)<br />[LacuS: Custom Level 50](https://www.youtube.com/watch?v=yfwZJ7zbzS4) |
+| (\~2012-02-27) |  | 完美思维V1.0 | Perfect Thinking V1.0 | 金银铃控 & ageofballance | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=RyLhCmM15l0) |
 | 2012-03-01 | 1434863849 | 全家福 | Family Portrait | vipeazone | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qdq8hBLqN_0)<br />[LacuS: Custom Level 54](https://www.youtube.com/watch?v=53tTdt3YMwE) |
 | 2012-07-01 | 1696142307 | easylevel | easylevel | 602706150 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=0mKN7NOBLG4) |
 | 2012-07-04 | 1701998518 | My own level | My own level | Vipeazone | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=2tP2mMW8dmw)<br />[LacuS: Custom Level 66](https://www.youtube.com/watch?v=Qa_F3T2bJFY) |
 | 2012-07-07 | 1709403624 | 天空之城No.8 | City in the Sky No.8 | Burning红云 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=9vEWwrTpK4I)<br />[LacuS: Custom Level 2](https://www.youtube.com/watch?v=ZyVNKIafQ-A) |
-| (~2012-07-27) |  | 伪·力量V2.0 | Fake Strength V2.0 | lydjjlyd | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=PTtOl9ik3UE) |
-| (~2012-07-27) |  | 伪·力量V3.0 | Fake Strength V3.0 | lydjjlyd | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=gH_LmKs1sb8) |
+| (\~2012-07-27) |  | 伪·力量V2.0 | Fake Strength V2.0 | lydjjlyd | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=PTtOl9ik3UE) |
+| (\~2012-07-27) |  | 伪·力量V3.0 | Fake Strength V3.0 | lydjjlyd | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=gH_LmKs1sb8) |
 | 2012-07-27 | 1753862804 | 危机地带 | Dangerous Area | Sterd | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=eUUpiK7jCAU) |
 | 2012-07-27 | 1753954766 | 七号迷城 | Bewildering City No. 7 | Burning红云 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=6oLdC3b9dwo)<br />[LacuS: Custom Level 80](https://www.youtube.com/watch?v=nPqszS8Ef_k) |
-| (~2012-07-29) |  | 无语图 | Speechless | 56308759 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=VSh3ESLelgA)<br />[LacuS: Custom Level 6](https://www.youtube.com/watch?v=3fdpOOz8KzE) |
+| (\~2012-07-29) |  | 无语图 | Speechless | 56308759 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=VSh3ESLelgA)<br />[LacuS: Custom Level 6](https://www.youtube.com/watch?v=3fdpOOz8KzE) |
 | 2012-07-31 | 1761038065 | 迷你路径 | Mini Path | 602706150 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=PHT_8AeQLxk)<br />[LacuS: Custom Level 8](https://www.youtube.com/watch?v=zpOWt1UXSk0) |
 | 2012-08-04 | 1770169808 | 双重路径 | Double Path | skb7757 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=mKGtNNBXfww) |
 | 2012-08-05 | 1772205284 | 恐怖迷宫V1.2 | Scary Maze V1.2 | Sterd | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=gJif4Ky08VI)<br />[LacuS: Custom Level 47](https://www.youtube.com/watch?v=VDM9vq7OqhM) |
 | 2012-08-12 | 1787925667 | 思维迷阵 | Thinking Maze | Burning红云 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=HdZXzEiEhQ0) |
 | 2012-08-30 | 1828996313 | 伪·力量V4.4 | Fake Strength V4.4 | 紧张哦2007324 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=gfMPSCb7A_U) |
-| (~2012-09-08) |  | Space Rail V1.0 | Space Rail V1.0 | 超级玛丽smile | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=L5WiWOgjL2k)<br />[LacuS: Another Rail Level](https://www.youtube.com/watch?v=909ZLVe67a0) |
+| (\~2012-09-08) |  | Space Rail V1.0 | Space Rail V1.0 | 超级玛丽smile | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=L5WiWOgjL2k)<br />[LacuS: Another Rail Level](https://www.youtube.com/watch?v=909ZLVe67a0) |
 | 2012-09-08 | 1847988925  | Space Rail V2.0 | Space Rail V2.0 | 超级玛丽smile | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=2ZyxQ9Qswt4)<br />[LacuS: Custom Level 23](https://www.youtube.com/watch?v=dTstCkkr41w) |
-| (2012-09-08~) |  | Space Rail V3.0 | Space Rail V3.0 | 超级玛丽smile | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=1kpkHy_hjfY) |
+| (2012-09-08\~) |  | Space Rail V3.0 | Space Rail V3.0 | 超级玛丽smile | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=1kpkHy_hjfY) |
 | 2012-09-09 | 1849504980 | 诡衡 | Weird Balance | 周元龙 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=jKqLkEcLu5M)<br />[LacuS: Custom Level 9](https://www.youtube.com/watch?v=nbMWjPIOB-U) |
 | 2012-09-08 | 1848658343 | 完美思维V2.0 | Perfect Thinking V2.0 | Burning红云 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=n9ADr4zVjt0) |
 | 2012-09-21 | 1875470454 | 平衡密码 | Ballance Password | ZYL | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=5XNyMw6lI3k)<br />[LacuS: Custom Level 10](https://www.youtube.com/watch?v=joZAKqYLoHY) |
@@ -54,21 +54,21 @@
 | 2013-03-03 | 2192008736 | 未命名 | Untitled | Tpsoete | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=RvNalqyCJz4)<br />[LacuS: Custom Level 5](https://www.youtube.com/watch?v=TUPGZlt9o1M) |
 | 2013-05-04 | 2307049046 | 探险之路 | Adventure Road | Burning红云 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=g0oVaPcgs6A)<br />[LacuS: Custom Level 70](https://www.youtube.com/watch?v=XaSy03otqg4) |
 | 2013-09-01 | 2568885068  | 平衡小径2.2 | Ballance Trail 2.2 | Burning红云 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=ovGTJG9nNCU)<br />[LacuS: Custom Level 85](https://www.youtube.com/watch?v=ae8fLjXSa0Y) |
-| (~2013-08-06~) |  | 急速滚球-跳跃世界 | Rapidly Rolling Ball - Jump World | 是♂不是♀ | 俊杰大兔子 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=k1cn_SQUHyI) |
-| (~2013-10-19) |  | 死亡边缘V2.0 | Edge of Death V2.0 | lydjjlyd | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=fY3HrxRRoIU)<br />[LacuS: Custom Level 75](https://www.youtube.com/watch?v=2V5MonOpkaY) |
-| (~2013-10-19) |  | 死亡边缘V3.0 | Edge of Death V3.0 | lydjjlyd | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=UCInQwLLy6I) |
-| (~2013-10-19) |  | 挑战极限1.0 | Push the Envelope 1.0 | lydjjlyd | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=2feB5D1ffs8) |
-| (~2019-02-24) |  | 挑战极限2.0 | Push the Envelope 2.0 | lydjjlyd | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=m-0TJSydc4w) |
-| (~2019-02-24) |  | 挑战极限3.0 | Push the Envelope 3.0 | lydjjlyd | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=MwOy6QMdy8E) |
+| (\~2013-08-06\~) |  | 急速滚球-跳跃世界 | Rapidly Rolling Ball - Jump World | 是♂不是♀ \| 俊杰大兔子 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=k1cn_SQUHyI) |
+| (\~2013-10-19) |  | 死亡边缘V2.0 | Edge of Death V2.0 | lydjjlyd | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=fY3HrxRRoIU)<br />[LacuS: Custom Level 75](https://www.youtube.com/watch?v=2V5MonOpkaY) |
+| (\~2013-10-19) |  | 死亡边缘V3.0 | Edge of Death V3.0 | lydjjlyd | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=UCInQwLLy6I) |
+| (\~2013-10-19) |  | 挑战极限1.0 | Push the Envelope 1.0 | lydjjlyd | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=2feB5D1ffs8) |
+| (\~2019-02-24) |  | 挑战极限2.0 | Push the Envelope 2.0 | lydjjlyd | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=m-0TJSydc4w) |
+| (\~2019-02-24) |  | 挑战极限3.0 | Push the Envelope 3.0 | lydjjlyd | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=MwOy6QMdy8E) |
 | 2014-04-05 | 2964638410 | 秋千练习图 | Swing Practice | 廖景萱forsyth | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=YuUw3oONiT4)<br />[LacuS: Custom Level 21](https://www.youtube.com/watch?v=-SIVeYlb2XU) |
 | 2014-07-05 | 3147435489  | 脑力小考V1.1 | Brain Test V1.1 | hhmmdd123 | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=EbOKh98oPUg)<br />[LacuS: Custom Level 49](https://www.youtube.com/watch?v=so8q6JeJSnk) |
 | 2014-07-06 | 3149381325  | 脑力小考V2.1 | Brain Test V2.1 | hhmmdd123 | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=lSgkTTcdIyE)<br />[LacuS: Custom Level 18](https://www.youtube.com/watch?v=-BG5p8kGaJg) |
-| (2014-07-06~11) |  | 脑力小考V3.1 | Brain Test V3.1 | hhmmdd123 | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=pdIeDmFtvuY)<br />[LacuS: Custom Level 26](https://www.youtube.com/watch?v=eeBM-iIsK6Y) |
+| (2014-07-06\~11) |  | 脑力小考V3.1 | Brain Test V3.1 | hhmmdd123 | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=pdIeDmFtvuY)<br />[LacuS: Custom Level 26](https://www.youtube.com/watch?v=eeBM-iIsK6Y) |
 | 2014-08-05 | 3210410638 | 平衡佳宴V1.0 | Ballance Banquet V1.0 | 廖景萱forsyth | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=CV0nYyQTUII)<br />[LacuS: Custom Level 65](https://www.youtube.com/watch?v=Vy7Qvie-JqY) |
 | 2014-08-07 | 3215309771 | 创意平衡 | Creative Ballance | fiype | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=sHEwvl_VVQI) |
-| (2014-08-09~10) |  | 平衡小径3.2 | Ballance Trail 3.2 | Burning红云 | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=voJh1dl87sM) |
+| (2014-08-09\~10) |  | 平衡小径3.2 | Ballance Trail 3.2 | Burning红云 | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=voJh1dl87sM) |
 | 2014-08-26 | 3257588291 | 力量V5.0 | Strength V5.0 | 紧张哦2007324 | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=O2Y6TxpljDk) |
-| (2014-08-26~09-08) |  | Easy-small | Easy-small | fiype | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=rH4fVhoqwKs) |
+| (2014-08-26\~09-08) |  | Easy-small | Easy-small | fiype | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=rH4fVhoqwKs) |
 | 2014-08-27 | 3259568908 | 平衡视窗V1.1 | Ballance Windows V1.1 | hhmmdd123 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=aEHcbcRdSog)<br />[LacuS: Custom Level 11](https://www.youtube.com/watch?v=sOgcf8fSmoA) |
 | 2014-10-06 | 3334670701 | 十字街道(正式版) | Cross Street (Gold) | 平衡四边球 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ftvmTnp5kUg) |
 | 2014-10-06 | 3334670701 | 十字街道(终极考核) | Cross Street (Ultimate Evaluation) | 平衡四边球 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=xifAiVuaarA) |
@@ -77,11 +77,11 @@
 | 2015-07-14 |  | 浮空岛V1.0 | Floating Islands V1.0 | 廖景萱forsyth | 3 | Landscape | [桜埜叶毣](https://www.youtube.com/watch?v=cJeIuWy9oXY) |
 | 2015-10-02 |  | 国庆小图 | National Day | 平衡总统 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=cqcFMrYIezw) |
 | 2016-01-20 |  | 巅峰时刻 | Peak Time | 平衡总统 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=j1lMbx9RUEQ) |
-| (2016-01-20~02-05) |  | 巅峰时刻2 | Peak Time 2 | 平衡总统 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=w1gZIBcIsZE) |
+| (2016-01-20\~02-05) |  | 巅峰时刻2 | Peak Time 2 | 平衡总统 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=w1gZIBcIsZE) |
 | 2016-02-05 | 4339962729 | 半个新图 | Almost a New Map | 半个新手1311 | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=Euo_ZAV5j2k) |
 | 2016-08-07 | 4717426985 | 十字街道1.9 | Cross Street V1.9 | 平衡四边球 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=nOBH4PcsDy8)<br />[LacuS: Custom Level 88](https://www.youtube.com/watch?v=MZCdxCSu-0w) |
 | 2016-08-07 | 4718300368 | 暮光之城 | Twilight City | Nice_melodies | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=AkTcUX4IO9w)<br />[LacuS: Custom Level 31](https://www.youtube.com/watch?v=CLGyRIvb298) |
-| (2016-08-04~31) |  | 平衡小径4.0 | Ballance Trail 4.0 | Burning红云 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=Ee2upipYaVk) |
+| (2016-08-04\~31) |  | 平衡小径4.0 | Ballance Trail 4.0 | Burning红云 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=Ee2upipYaVk) |
 | 2017-07-24 | 5241543371 | 图纸图 | Blueprint | 破晓_年华 | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=_R5VK6GR4F0)<br />[LacuS: Custom Level 48](https://www.youtube.com/watch?v=j43f-k5JD2k) |
 | 2017-08-21 | 5283992556 | 嘉年华2（极难版） | Carnival 2 (Extremely Hard Ver.) | ZYL & 该隐 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=1zngdzWfjRg) |
 | 2018-05-19 | 5706595756 | 180519图 | Map 180519 | BallanceBug | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=U_nDQu1wdas) |
@@ -92,7 +92,7 @@
 | 2019-01-02 | N/A | 2019新地图 | New Map 2019 | lydjjlyd | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=UOaXs12S_LU) |
 | 2019-02-04 | 6026985302 | 蓝星2：空间工业区(精良) | Blue Star 2: Industrial Area in Space | Sterd | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=S6SHsIK-efU) |
 | 2019-02-04 | 6027051573 | 完美思维3–场景版 | Perfect Thinking V3.0–Scene Ver. | 飘逸冷星 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=Rc8WS7ndntw) |
-| 2019-03-20 | 6085242840 | 乾坤五极 | Pentagons | Ghomist | Zzq_203 | 鬼躲锑度233 | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=gZAiw3V8PNg) |
+| 2019-03-20 | 6085242840 | 乾坤五极 | Pentagons | Ghomist \| Zzq_203 \| 鬼躲锑度233 | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=gZAiw3V8PNg) |
 | 2019-04-02 | 6087661467 | 全家福2 | Family Portrait 2 | 梨栠washing | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=dK2DplB5BMQ)<br />[LacuS: Custom Level 95](https://www.youtube.com/watch?v=QBTC302LoXU) |
 | 2019-05-18 | 6135463443 | 穿云之箭(190518图) | Arrow Piercing Clouds (Map 190518) | BallanceBug | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=4WISrtIFang)<br />[LacuS: Custom Level 16](https://www.youtube.com/watch?v=pSsH1tAj1Xc) |
 | 2019-05-19 | 6136048811 | 天穹之旅 | Journey to the Sky | ZYL | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=aoiK7_w-Hgg)<br />[LacuS: Custom Level 15](https://www.youtube.com/watch?v=PYwG8em05Ew) |
@@ -151,3 +151,4 @@
 | 2022-11-20 | N/A | Sky Run | Sky Run | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=V8KCl3xggW8) |
 | 2022-11-25 | 8159356350 | 璀璨星河 | Bright Galaxy | 其乐融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=xqcHwkeaqDs) |
 | 2022-12-16 | 8186972446 | 星光点点 | Scattered Starlight | 其乐融 | 2 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=F5zCu1K927w) |
+| 2022-12-16 | 8187502889 | 迷草幻城 | Four-Leaf Clover 3 - Fantasy City Full of Bewildering Grass | 四叶草 (dyethx) & 平衡四边球 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=mV4w94wDWq8) |
