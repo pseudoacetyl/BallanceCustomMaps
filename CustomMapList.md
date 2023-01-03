@@ -87,6 +87,7 @@
 | 2018-05-19 | 5706595756 | 180519图 | Map 180519 | BallanceBug | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=U_nDQu1wdas) |
 | 2018-07-14 | 5794963477 | 星汉乾坤 | Galaxy-Stars Palace | 飘逸冷星 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=e0SpwysG7yI) |
 | 2018-07-26 | 5811080401 | Small Level 1 | Small Level 1 | 纸块块 | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=wrr7irXa10o) |
+| 2018-07-27 | 5811801693 | Hevel_01 | Hevel_01 | Burning红云 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=p2x-EYmfDpU) |
 | 2018-08-19 | 5846553728 | 轮回之旅 | Journey of Reincarnation | 纸块块 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=PDlWS6CTTqU)<br />[LacuS: Custom Level 76](https://www.youtube.com/watch?v=h85to7MCJL4) |
 | 2018-12-07 | 5972085310 | 蓝星序曲V1.3 | Blue Star: The Overture V1.3 | Sterd | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5zEnroEc5YU) |
 | 2019-01-02 | N/A | 2019新地图 | New Map 2019 | lydjjlyd | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=UOaXs12S_LU) |
@@ -136,6 +137,7 @@
 | 2022-01-23 | 7704284573 | 虎年小图 | Year of the Tiger | 湮尘灬冷曦 | 2 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=gNbxWo67Tdo) |
 | 2022-02-09 | 7718897012 | 男人就下100层 | Go Down 100 Floors if You Are a Man | 其乐融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=9NPwLlTmrDc) |
 | 2022-02-09 | 7719062871 | 启蒙游记 | Enlightenment Travel | dahkjdas | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=_KhJ0k7SSFY) |
+| 2022-02-18 | 7730041768 | 空中楼阁2 | Castles in the Air 2 | 其乐融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=SaNB5aw0rPo) |
 | 2022-03-02 | 7745564466 | 时空之梦 | Dream of Space-Time | 夜空云玲 | 2.5–3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=BeYXA6lJ_Ls) |
 | 2022-03-03 | 7746068535 | 梦回2022 | Dreaming Back to 2022 | 其乐融 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=xD4Q1aJczL4) |
 | 2022-04-29 | 7816154256 | 6A级山地观光 | AAAAAA Class Mountain Scenery | schtonn | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W0s9deB0-5s) |
@@ -152,3 +154,9 @@
 | 2022-11-25 | 8159356350 | 璀璨星河 | Bright Galaxy | 其乐融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=xqcHwkeaqDs) |
 | 2022-12-16 | 8186972446 | 星光点点 | Scattered Starlight | 其乐融 | 2 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=F5zCu1K927w) |
 | 2022-12-16 | 8187502889 | 迷草幻城 | Four-Leaf Clover 3 - Fantasy City Full of Bewildering Grass | 四叶草 (dyethx) & 平衡四边球 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=mV4w94wDWq8) |
+| 2022-12-20 | 8192428716 | 游记：天轨立交 | Travel: Interchange of Sky Rails | dahkjdas | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=r8Jfgv7XNyA) |
+| 2022-12-22 | 8194539064 | 方正天元 |  | 湮尘灬冷曦 | 5 | Logical |  |
+| 2022-12-23 | 8195587541 | 火星你好 | Hello Mars | 其乐融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=T43aP6zJ-qY) |
+| 2022-12-30 | 8202574033 | 未来的往事 | Past in the Future | Entity_303 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Iu9GOSmrvYo) |
+| 2022-12-30 | 8203230700 | Hevel_02 | Hevel_02 | Burning红云 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=RU__ZRN4LCQ) |
+| 2023-01-03 | 8207819779 | 次元航路 | Dimensional Route | 湮尘灬冷曦 | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=jj6V35TV8o4) |
