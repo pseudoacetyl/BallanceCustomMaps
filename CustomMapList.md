@@ -155,8 +155,9 @@
 | 2022-12-16 | 8186972446 | 星光点点 | Scattered Starlight | 其乐融 | 2 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=F5zCu1K927w) |
 | 2022-12-16 | 8187502889 | 迷草幻城 | Four-Leaf Clover 3 - Fantasy City Full of Bewildering Grass | 四叶草 (dyethx) & 平衡四边球 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=mV4w94wDWq8) |
 | 2022-12-20 | 8192428716 | 游记：天轨立交 | Travel: Interchange of Sky Rails | dahkjdas | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=r8Jfgv7XNyA) |
-| 2022-12-22 | 8194539064 | 方正天元 |  | 湮尘灬冷曦 | 5 | Logical |  |
+| 2022-12-22 | 8194539064 | 方正天元 | Rectangular Elements | 湮尘灬冷曦 | 5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=RtnIx5xFrJI) |
 | 2022-12-23 | 8195587541 | 火星你好 | Hello Mars | 其乐融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=T43aP6zJ-qY) |
 | 2022-12-30 | 8202574033 | 未来的往事 | Past in the Future | Entity_303 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Iu9GOSmrvYo) |
 | 2022-12-30 | 8203230700 | Hevel_02 | Hevel_02 | Burning红云 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=RU__ZRN4LCQ) |
 | 2023-01-03 | 8207819779 | 次元航路 | Dimensional Route | 湮尘灬冷曦 | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=jj6V35TV8o4) |
+| 2023-01-04 | 8209315710 | 绚烂星空2.0 | Gorgeous Starry Sky 2.0 | 其乐融 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=zOdXy-jidSg) |
