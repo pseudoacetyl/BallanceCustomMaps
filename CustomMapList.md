@@ -103,6 +103,7 @@
 | 2019-06-23 | 6172417541 | 机械迷阵V1.2 | Mazes of Machines V1.2 | skict | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=4c3-VcjhJ00)<br />[LacuS: Custom Level 13](https://www.youtube.com/watch?v=_-Bl4nRmhLk) |
 | 2019-07-14 | 6193509244 | 星罗棋布 (星汉乾坤2) | Scattered (Galaxy-Stars Palace II) | 飘逸冷星 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=dugCa05ZHu4) |
 | 2019-08-13 | 6225043540 | 轮回之旅2 | Journey of Reincarnation 2 | 9826HZg | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=zhOrfQpr3qI) |
+| 2020-01-17 | 6449136722 | 大恒逻技 | Daheng Skillogic | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=laRvMFRJc-8) |
 | 2020-01-30 | 6465916551 | 大恒棋局 | Daheng Chess Game | dahkjdas | 5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=32_iX9Kqay4) |
 | 2020-01-30 | 6465916551 | 大恒棋局Extra | Daheng Chess Game Extra | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=Pt54Rur67U0) |
 | 2020-03-13 | 6547541232 | 星幻云阶 | Fantasy Star Style Cloud Stairs | 湮尘灬冷曦 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=vZdoKBp41bY)<br />[LacuS: Custom Level 33](https://www.youtube.com/watch?v=fZuY4PuI8nw) |
@@ -165,4 +166,6 @@
 | 2022-12-30 | 8203230700 | Hevel_02 | Hevel_02 | Burning红云 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=RU__ZRN4LCQ) |
 | 2023-01-03 | 8207819779 | 次元航路 | Dimensional Route | 湮尘灬冷曦 | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=jj6V35TV8o4) |
 | 2023-01-04 | 8209315710 | 绚烂星空2.0 | Gorgeous Starry Sky 2.0 | 其乐融 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=zOdXy-jidSg) |
-| 2023-01-17 | N/A | LampNightmare | LampNightmare | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=kuKKNeQLnuc) |
+| 2023-01-17 | N/A | LampNightmare | LampNightmare | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=kuKKNeQLnuc)<br />[LacuS: Custom Level 101](https://www.youtube.com/watch?v=a4pvzdHMJRY) |
+| 2023-02-16 | 8267347663 | Singular Forest | Singular Forest | ZYL | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=BEN-3nJShIU) |
+| 2023-02-24 | 8280169273 | 大恒逻技Ⅱ | Daheng SkillogicⅡ | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=72wvy7qtpgk) |
