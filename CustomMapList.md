@@ -222,5 +222,6 @@
 | 2023-01-17 | N/A | LampNightmare | LampNightmare | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=kuKKNeQLnuc)<br />[LacuS: Custom Level 101](https://www.youtube.com/watch?v=a4pvzdHMJRY) |
 | 2023-02-16 | 8267347663 | 单轨森林 | Singular Forest | ZYL | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=BEN-3nJShIU) |
 | 2023-02-24 | 8280169273 | 大恒逻技Ⅱ | Daheng Skillogic Ⅱ | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=72wvy7qtpgk) |
-| 2023-05-28 | N/A | The_SBlender | The_SBlender | speedystoneball ― the 2x player | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W-55ViQ7OOo) |
+| 2023-05-20 | N/A | 230623图【V1.0】 | Map 230623【V1.0】 | 623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=SHW5Hw7zIWc) |
+| 2023-05-28 | N/A | The_SBlender | The_SBlender | speedystoneball | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W-55ViQ7OOo) |
 | 2023-06-01 | N/A | NexusLights | NexusLights | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=378H_uLz4tM) |
