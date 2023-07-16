@@ -223,6 +223,7 @@
 | 2023-02-16 | 8267347663 | 单轨森林 | Singular Forest | ZYL | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=BEN-3nJShIU) |
 | 2023-02-24 | 8280169273 | 大恒逻技Ⅱ | Daheng Skillogic Ⅱ | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=72wvy7qtpgk) |
 | 2023-05-20 | N/A | 230623图【V1.0】 | Map 230623【V1.0】 | 623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=SHW5Hw7zIWc) |
-| 2023-05-28 | N/A | The_SBlender | The_SBlender | speedystoneball | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W-55ViQ7OOo) |
+| 2023-05-28 | N/A | The_SBlender | The_SBlender | speedystoneball | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W-55ViQ7OOo)<br />[LacuS: Custom Level 104](https://www.youtube.com/watch?v=LUBit343Gso) |
 | 2023-06-01 | N/A | NexusLights | NexusLights | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=378H_uLz4tM)<br />[LacuS: Custom Level 102](https://www.youtube.com/watch?v=80JAt4SaEr0) |
-| 2023-06-09 | N/A | IronWinds | IronWinds | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=QUcZEiyegPU) |
+| 2023-06-09 | N/A | IronWinds | IronWinds | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=QUcZEiyegPU)<br />[LacuS: Custom Level 103](https://www.youtube.com/watch?v=PCwY62ZpR4Y) |
+| 2023-06-30 | 8485380858 | 元素奇旅 | Periodic Travel | 湮尘灬冷曦 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=-i1A4IZpdYc) |
