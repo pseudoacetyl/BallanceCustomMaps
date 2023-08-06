@@ -22,6 +22,7 @@
 | (\~2011-03-12) |  | 不走回头路V3.0 | Never Walk Back V3.0 | oing9179 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5ULeRuhCkp4) |
 | (\~2011-04-29) |  | 单轨世界V1.0 | World of Single Rails V1.0 | lydjjlyd | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=9G6BDh4CDlY)<br />[LacuS: Custom Level 1](https://www.youtube.com/watch?v=kLYH3UQFNHo) |
 | (\~2011-04-29) |  | 单轨世界V2.0 | World of Single Rails V2.0 | lydjjlyd | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=656ntp0jEO0)<br />[LacuS: Custom Level 30](https://www.youtube.com/watch?v=Q6Yno1tGf_I) |
+| 2011-08-30 | 1194800119 | 灰城勿扰 | No Sincerity No Bothering | Gamepiaynmo | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=xailgyGG5EU) |
 | (\~2011-11-12) |  | BT图 | Abnormal | 61粉丝 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ElYmN9sGbgA) |
 | 2011-12-04 | 1309737138 | Ballance Wooden | Ballance Wooden | 2jjy & BallanceBug | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=XxOlaR-xctY) |
 | 2012-01-03 | 1350884058 | Ballance嘉年华V1.1 | Ballance Carnival V1.1 | fiype | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=pM01nIBerVE) |
@@ -227,3 +228,4 @@
 | 2023-06-01 | N/A | NexusLights | NexusLights | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=378H_uLz4tM)<br />[LacuS: Custom Level 102](https://www.youtube.com/watch?v=80JAt4SaEr0) |
 | 2023-06-09 | N/A | IronWinds | IronWinds | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=QUcZEiyegPU)<br />[LacuS: Custom Level 103](https://www.youtube.com/watch?v=PCwY62ZpR4Y) |
 | 2023-06-30 | 8485380858 | 元素奇旅 | Periodic Travel | 湮尘灬冷曦 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=-i1A4IZpdYc) |
+| 2023-08-06 | N/A | New World | New World | pseudoacetyl | 5 | Skillogic | |
