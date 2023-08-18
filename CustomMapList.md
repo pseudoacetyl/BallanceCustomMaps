@@ -112,6 +112,8 @@
 | 2017-07-24 | 5241543371 | 图纸图 | Blueprint | 破晓_年华 | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=_R5VK6GR4F0)<br />[LacuS: Custom Level 48](https://www.youtube.com/watch?v=j43f-k5JD2k) |
 | 2017-08-21 | 5283992556 | 嘉年华2（极难版） | Carnival 2 (Extremely Hard Ver.) | ZYL & 该隐 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=1zngdzWfjRg) |
 | 2017-08-26 | 5291381882 | 平衡大厦（立体迷宫）（简单版）v1.1.2 | Ballance Skyscraper (3D Maze; Easy Ver.) V1.1.2 | 梨栠washing | 2 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=unIww_t6mh4)<br />[LacuS: Custom Level 9](https://www.youtube.com/watch?v=cjzaFOMv5Vg) |
+|  |  | 平衡大厦（立体迷宫）（困难版——围城）v1.3.2 |  |  |  |  |  |
+|  |  | 平衡大厦（立体迷宫）（困难版——盲打）v1.2.2 |  |  |  |  |  |
 | 2017-10-04 | 5354738887 | 失落之城 | Lost City | ZYL & 平衡四边球 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=fXGiT-AELlo) |
 | (2018-02-14) |  | 月光穿梭2.0 | Moon Shuttle 2.0 | 平衡四边球 & 平衡总统 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=lkdXYfMqDaw) |
 | 2018-05-19 | 5706595756 | 180519图 | Map 180519 | BallanceBug | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=U_nDQu1wdas) |
@@ -207,9 +209,9 @@
 | 2022-09-21 | 8032872094 | 游记：崎岖星骸 | Travel: Rugged Debris | dahkjdas | 2.5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=WdzN9MmAJWs) |
 | 2022-10-27 | 8106591873 | 深空遨游 | Travel in the Deep Space | 其乐融 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=P7op7jtxP80) |
 | 2022-11-12 | N/A | 板子娜Leona | Board-Na Leona | 9826HZg | 1 | Casual |  |
-| 2022-11-13 | N/A | A Small Challenge | A Small Challenge | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=oZGMDlS4p_Q) |
+| 2022-11-13 | N/A | ASC (A Small Challenge) | ASC (A Small Challenge) | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=oZGMDlS4p_Q) |
 | 2022-11-16 | 8145996315 | 游记：绚烂星空 | Travel: Gorgeous Starry Sky | 其乐融 | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=y24pcTVrDt8) |
-| 2022-11-20 | N/A | Sky Run | Sky Run | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=V8KCl3xggW8) |
+| 2022-11-20 | N/A | SkyRun | SkyRun | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=V8KCl3xggW8) |
 | 2022-11-25 | 8159356350 | 璀璨星河 | Bright Galaxy | 其乐融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=xqcHwkeaqDs) |
 | 2022-12-16 | 8186972446 | 星光点点 | Scattered Starlight | 其乐融 | 2 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=F5zCu1K927w) |
 | 2022-12-16 | 8187502889 | 迷草幻城 | Four-Leaf Clover 3 - Fantasy City Full of Bewildering Grass | 四叶草 (dyethx) & 平衡四边球 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=mV4w94wDWq8) |
@@ -223,9 +225,11 @@
 | 2023-01-17 | N/A | LampNightmare | LampNightmare | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=kuKKNeQLnuc)<br />[LacuS: Custom Level 101](https://www.youtube.com/watch?v=a4pvzdHMJRY) |
 | 2023-02-16 | 8267347663 | 单轨森林 | Singular Forest | ZYL | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=BEN-3nJShIU) |
 | 2023-02-24 | 8280169273 | 大恒逻技Ⅱ | Daheng Skillogic Ⅱ | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=72wvy7qtpgk) |
-| 2023-05-20 | N/A | 230623图【V1.0】 | Map 230623【V1.0】 | 623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=SHW5Hw7zIWc) |
-| 2023-05-28 | N/A | The_SBlender | The_SBlender | speedystoneball | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W-55ViQ7OOo)<br />[LacuS: Custom Level 104](https://www.youtube.com/watch?v=LUBit343Gso) |
+| 2023-05-20 | N/A | 230623图【V1.0】 | Map 230623【V1.0】 | 小李子623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=SHW5Hw7zIWc) |
+| 2023-05-28 | N/A | The SBlender | The SBlender | speedystoneball | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W-55ViQ7OOo)<br />[LacuS: Custom Level 104](https://www.youtube.com/watch?v=LUBit343Gso) |
 | 2023-06-01 | N/A | NexusLights | NexusLights | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=378H_uLz4tM)<br />[LacuS: Custom Level 102](https://www.youtube.com/watch?v=80JAt4SaEr0) |
 | 2023-06-09 | N/A | IronWinds | IronWinds | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=QUcZEiyegPU)<br />[LacuS: Custom Level 103](https://www.youtube.com/watch?v=PCwY62ZpR4Y) |
+| 2023-06-30 | N/A | 三托大变 | Three P!les of Sh!t | 小锂电池 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=ReBtMZEHPes) |
 | 2023-06-30 | 8485380858 | 元素奇旅 | Periodic Travel | 湮尘灬冷曦 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=-i1A4IZpdYc) |
-| 2023-08-06 | N/A | New World | New World | pseudoacetyl | 5 | Skillogic | |
+| 2023-08-06 | N/A | New World | New World | pseudoacetyl | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=vqOkmi4Q0bE) |
+| 2023-08-17 | 8557573293 | 游记：天渊之架 | Travel: Supports of Sky and Abyss | dahkjdas | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=vMqoc78Aw-M) |
