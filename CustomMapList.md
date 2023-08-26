@@ -312,3 +312,4 @@
 | 2023-06-30 | 8485380858 | 元素奇旅 | Periodic Travel | 湮尘灬冷曦 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=-i1A4IZpdYc) |
 | 2023-08-06 | N/A | New World | New World | pseudoacetyl | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=vqOkmi4Q0bE) |
 | 2023-08-17 | 8557573293 | 游记：天渊之架 | Travel: Supports of Sky and Abyss | dahkjdas | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=vMqoc78Aw-M) |
+| 2023-08-26 |  | Omit Superfluous Things | Omit Superfluous Things | pseudoacetyl | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=83tN5qENvvI) |
