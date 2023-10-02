@@ -162,7 +162,7 @@
 | 2018-02-14 | 5552244435 | 平衡帝国 | Ballance Empire | 燃烧的纸球 | 5 | Comprehensive |  |
 | (2018-02-14) |  | 月光穿梭2.0 | Moon Shuttle 2.0 | 平衡四边球 & 平衡总统 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=lkdXYfMqDaw) |
 | 2018-05-19 | 5706595756 | 180519图 | Map 180519 | BallanceBug | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=U_nDQu1wdas) |
-| 2018-06-22 | 5761087878 | 新视野之旅v1.1 | Journey of New Horizons v1.1 | 湮尘灬冷曦 | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=ax-cGU5H4oI)<br />[LacuS: Custom Level 39](https://www.youtube.com/watch?v=ddoR3DXlKy0) |
+| 2018-06-22 | 5761087878 | 新视野之旅v1.1 | Journey of New Horizons v1.1 | 飘逸冷星 | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=ax-cGU5H4oI)<br />[LacuS: Custom Level 39](https://www.youtube.com/watch?v=ddoR3DXlKy0) |
 | 2018-06-27 | 5769212127 | 不会单轨的痛你会懂 | You Will Understand the Pain of Not Being Able to Balance on Single Rails | 云居一号 & Nice_melodies | 2 | Comprehensive |  |
 | 2018-07-14 | 5794963477 | 星汉乾坤 | Galaxy-Stars Palace | 飘逸冷星 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=e0SpwysG7yI) |
 | 2018-07-26 | 5811080401 | Small Level 1 | Small Level 1 | 纸块块 | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=wrr7irXa10o) |
@@ -304,7 +304,7 @@
 | 2023-01-17 | N/A | LampNightmare | LampNightmare | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=kuKKNeQLnuc)<br />[LacuS: Custom Level 101](https://www.youtube.com/watch?v=a4pvzdHMJRY) |
 | 2023-02-16 | 8267347663 | 单轨森林 | Singular Forest | ZYL | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=BEN-3nJShIU) |
 | 2023-02-24 | 8280169273 | 大恒逻技Ⅱ | Daheng Skillogic Ⅱ | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=72wvy7qtpgk) |
-| 2023-05-20 | N/A | 230623图【V1.0】 | Map 230623【v1.0】 | 小李子623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=SHW5Hw7zIWc) |
+| 2023-05-20 | N/A | 神毒鬼道(230623图【V1.0】) | Heretical Toxicity (Map 230623【v1.0】) | 小李子623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=SHW5Hw7zIWc) |
 | 2023-05-28 | N/A | The SBlender | The SBlender | speedystoneball | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W-55ViQ7OOo)<br />[LacuS: Custom Level 104](https://www.youtube.com/watch?v=LUBit343Gso) |
 | 2023-06-01 | N/A | NexusLights | NexusLights | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=378H_uLz4tM)<br />[LacuS: Custom Level 102](https://www.youtube.com/watch?v=80JAt4SaEr0) |
 | 2023-06-09 | N/A | IronWinds | IronWinds | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=QUcZEiyegPU)<br />[LacuS: Custom Level 103](https://www.youtube.com/watch?v=PCwY62ZpR4Y) |
@@ -314,3 +314,4 @@
 | 2023-08-17 | 8557573293 | 游记：天渊之架 | Travel: Supports of Sky and Abyss | dahkjdas | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=vMqoc78Aw-M) |
 | 2023-08-26 | N/A | Omit Superfluous Things | Omit Superfluous Things | pseudoacetyl | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=83tN5qENvvI) |
 | 2023-08-28 | 8573884923 | 地球之上——第一宇宙速度 | Above the Earth—First Cosmic Velocity | Entity_303 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=zEFbfIxuYII) |
+| 2023-10-01 | N/A | 神逻鬼道 | Heretical Logic | 小李子623 | 4 | Logical |
