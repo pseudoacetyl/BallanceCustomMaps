@@ -315,3 +315,5 @@
 | 2023-08-26 | N/A | Omit Superfluous Things | Omit Superfluous Things | pseudoacetyl | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=83tN5qENvvI) |
 | 2023-08-28 | 8573884923 | 地球之上——第一宇宙速度 | Above the Earth—First Cosmic Velocity | Entity_303 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=zEFbfIxuYII) |
 | 2023-10-01 | N/A | 神逻鬼道 | Heretical Logic | 小李子623 | 4 | Logical |
+| 2023-10-04 | N/A | Crying Steel | Crying Steel | Kry | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=rUz8N86_hJQ)	|
+| 2023-10-12 | N/A | The Masquerade | The Masquerade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=iUJnJQfEGlk)	|
