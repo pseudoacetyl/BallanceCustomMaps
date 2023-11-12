@@ -314,6 +314,7 @@
 | 2023-08-17 | 8557573293 | 游记：天渊之架 | Travel: Supports of Sky and Abyss | dahkjdas | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=vMqoc78Aw-M) |
 | 2023-08-26 | N/A | Omit Superfluous Things | Omit Superfluous Things | pseudoacetyl | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=83tN5qENvvI) |
 | 2023-08-28 | 8573884923 | 地球之上——第一宇宙速度 | Above the Earth—First Cosmic Velocity | Entity_303 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=zEFbfIxuYII) |
-| 2023-10-01 | N/A | 神逻鬼道 | Heretical Logic | 小李子623 | 4 | Logical |
-| 2023-10-04 | N/A | Crying Steel | Crying Steel | Kry | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=rUz8N86_hJQ)	|
-| 2023-10-12 | N/A | The Masquerade | The Masquerade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=iUJnJQfEGlk)	|
+| 2023-10-01 | N/A | 神逻鬼道 | Heretical Logic | 小李子623 | 4 | Puzzle |  |
+| 2023-10-04 | N/A | Crying Steel | Crying Steel | Kry | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=rUz8N86_hJQ) |
+| 2023-10-12 | N/A | The Masquerade | The Masquerade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=iUJnJQfEGlk)<br />[LacuS](https://www.youtube.com/watch?v=Z6mQLIKQtNo) |
+| 2023-11-11 | 8711954400 | 风扇练习图 | Ventilator Practice | 其乐融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=M4ctgvXD9ok) |
