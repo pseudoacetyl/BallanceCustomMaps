@@ -274,11 +274,11 @@
 | 2022-01-07 | 7687263903 | 大恒图8.4-逻技2021 | Daheng 8.4—Skillogic 2021 | dahkjdas | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=xbSAqP--nrU) |
 | 2022-01-07 | 7687263903 | 大恒图8.5-回家 | Daheng 8.5—Go Home | dahkjdas | 3.5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=Gz35WyY7Yoo) |
 | 2022-01-23 | 7704284573 | 虎年小图 | Year of the Tiger | 湮尘灬冷曦 | 2 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=gNbxWo67Tdo) |
-| 2022-02-09 | 7718897012 | 男人就下100层 | Go Down 100 Floors if You Are a Man | 其乐融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=9NPwLlTmrDc) |
+| 2022-02-09 | 7718897012 | 男人就下100层 | Go Down 100 Floors if You Are a Man | 其乐融融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=9NPwLlTmrDc) |
 | 2022-02-09 | 7719062871 | 启蒙游记 | Enlightenment Travel | dahkjdas | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=_KhJ0k7SSFY) |
-| 2022-02-18 | 7730041768 | 空中楼阁2 | Castles in the Air 2 | 其乐融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=SaNB5aw0rPo) |
+| 2022-02-18 | 7730041768 | 空中楼阁2 | Castles in the Air 2 | 其乐融融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=SaNB5aw0rPo) |
 | 2022-03-02 | 7745564466 | 时空之梦 | Dream of Space-Time | 夜空云玲 | 2.5–3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=BeYXA6lJ_Ls) |
-| 2022-03-03 | 7746068535 | 梦回2022 | Dreaming Back to 2022 | 其乐融 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=xD4Q1aJczL4) |
+| 2022-03-03 | 7746068535 | 梦回2022 | Dreaming Back to 2022 | 其乐融融 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=xD4Q1aJczL4) |
 | 2022-04-29 | 7816154256 | 6A级山地观光 | AAAAAA Class Mountain Scenery | schtonn | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W0s9deB0-5s) |
 | 2022-05-03 | 7820366430 | 永恒之心4.0—奇异空间 | Eternal Heart 4.0—Singular Space | Lonely Snow | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=WdDl2ETEPHY) |
 | 2022-05-21 | 7844393615 | 镜界空轨(220521图) | Sky Rails in the Mirror World (Map 220521) | BallanceBug | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ZbNC9if35Ys) |
@@ -286,21 +286,21 @@
 | 2022-07-16 | N/A | 220716图 | Map 220716 | lydjjlyd | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=8jiOuXLuixA) |
 | 2022-07-25 | 7942483037 | 碎镜1：异象 | Broken Mirror 1: Vision | 剃刀没有M3 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=vswCzC-zczQ) |
 | 2022-09-21 | 8032872094 | 游记：崎岖星骸 | Travel: Rugged Debris | dahkjdas | 2.5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=WdzN9MmAJWs) |
-| 2022-10-27 | 8106591873 | 深空遨游 | Travel in the Deep Space | 其乐融 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=P7op7jtxP80) |
+| 2022-10-27 | 8106591873 | 深空遨游 | Travel in the Deep Space | 其乐融融 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=P7op7jtxP80) |
 | 2022-11-12 | N/A | 板子娜Leona | Board-Na Leona | 9826HZg | 1 | Casual |  |
 | 2022-11-13 | N/A | ASC (A Small Challenge) | ASC (A Small Challenge) | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=oZGMDlS4p_Q) |
-| 2022-11-16 | 8145996315 | 游记：绚烂星空 | Travel: Gorgeous Starry Sky | 其乐融 | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=y24pcTVrDt8) |
+| 2022-11-16 | 8145996315 | 游记：绚烂星空 | Travel: Gorgeous Starry Sky | 其乐融融 | 1 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=y24pcTVrDt8) |
 | 2022-11-20 | N/A | SkyRun | SkyRun | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=V8KCl3xggW8) |
-| 2022-11-25 | 8159356350 | 璀璨星河 | Bright Galaxy | 其乐融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=xqcHwkeaqDs) |
-| 2022-12-16 | 8186972446 | 星光点点 | Scattered Starlight | 其乐融 | 2 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=F5zCu1K927w) |
+| 2022-11-25 | 8159356350 | 璀璨星河 | Bright Galaxy | 其乐融融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=xqcHwkeaqDs) |
+| 2022-12-16 | 8186972446 | 星光点点 | Scattered Starlight | 其乐融融 | 2 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=F5zCu1K927w) |
 | 2022-12-16 | 8187502889 | 四叶草图3—迷草幻城 | Four-Leaf Clover 3—Fantasy City Full of Bewildering Grass | 四叶草 (dyethx) & 平衡四边球 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=mV4w94wDWq8) |
 | 2022-12-20 | 8192428716 | 游记：天轨立交 | Travel: Interchange of Sky Rails | dahkjdas | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=r8Jfgv7XNyA) |
 | 2022-12-22 | 8194539064 | 方正天元 | Rectangular Elements | 湮尘灬冷曦 | 5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=RtnIx5xFrJI) |
-| 2022-12-23 | 8195587541 | 火星你好 | Hello Mars | 其乐融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=T43aP6zJ-qY) |
+| 2022-12-23 | 8195587541 | 火星你好 | Hello Mars | 其乐融融 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=T43aP6zJ-qY) |
 | 2022-12-30 | 8202574033 | 未来的往事 | Past in the Future | Entity_303 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Iu9GOSmrvYo) |
 | 2022-12-30 | 8203230700 | Hevel_02 | Hevel_02 | Burning红云 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=RU__ZRN4LCQ) |
 | 2023-01-03 | 8207819779 | 次元航路 | Dimensional Route | 湮尘灬冷曦 | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=jj6V35TV8o4) |
-| 2023-01-04 | 8209315710 | 绚烂星空2.0 | Gorgeous Starry Sky 2.0 | 其乐融 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=zOdXy-jidSg) |
+| 2023-01-04 | 8209315710 | 绚烂星空2.0 | Gorgeous Starry Sky 2.0 | 其乐融融 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=zOdXy-jidSg) |
 | 2023-01-17 | N/A | LampNightmare | LampNightmare | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=kuKKNeQLnuc)<br />[LacuS: Custom Level 101](https://www.youtube.com/watch?v=a4pvzdHMJRY) |
 | 2023-02-16 | 8267347663 | 单轨森林 | Singular Forest | ZYL | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=BEN-3nJShIU) |
 | 2023-02-24 | 8280169273 | 大恒逻技Ⅱ | Daheng Skillogic Ⅱ | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=72wvy7qtpgk) |
@@ -317,5 +317,6 @@
 | 2023-10-01 | N/A | 神逻鬼道 | Heretical Logic | 小李子623 | 4 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=sJ62daMNxaE) |
 | 2023-10-04 | N/A | Crying Steel | Crying Steel | Kry | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=rUz8N86_hJQ) |
 | 2023-10-12 | N/A | The Masquerade | The Masquerade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=iUJnJQfEGlk)<br />[LacuS](https://www.youtube.com/watch?v=Z6mQLIKQtNo) |
-| 2023-11-11 | 8711954400 | 风扇练习图 | Ventilator Practice | 其乐融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=M4ctgvXD9ok) |
+| 2023-11-11 | 8711954400 | 风扇练习图 | Ventilator Practice | 其乐融融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=M4ctgvXD9ok) |
 | 2023-11-18 | 8729796717 | 四叶草图4—樱空忆雪 | Four-Leaf Clover 4—Cherry Blossom Petals in the Air Bring Back Memories of Snow v1.3 | 四叶草 (dyethx) | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=h0lvgPYDkPE) |
+| 2023-11-20 | N/A | 屋宇千秋 | Ancient Building | 其乐融融 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=98U95SYT6zw) |
