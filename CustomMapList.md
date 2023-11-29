@@ -320,3 +320,4 @@
 | 2023-11-11 | 8711954400 | 风扇练习图 | Ventilator Practice | 其乐融融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=M4ctgvXD9ok) |
 | 2023-11-18 | 8729796717 | 四叶草图4—樱空忆雪 | Four-Leaf Clover 4—Cherry Blossom Petals in the Air Bring Back Memories of Snow v1.3 | 四叶草 (dyethx) | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=h0lvgPYDkPE) |
 | 2023-11-20 | N/A | 屋宇千秋 | Ancient Building | 其乐融融 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=98U95SYT6zw) |
+| 2023-11-29 | N/A | Path of Puzzles | Path of Puzzles | Jack02 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qplaGza3Bt0) |
