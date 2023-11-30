@@ -48,14 +48,14 @@
 | (2012-01-25) |  | 伪·力量V2.0 | Fake Strength v2.0 | lydjjlyd | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=PTtOl9ik3UE) |
 | 2012-01-25 | 1387336005 | 伪·能力V2.0 | Fake Ability v2.0 | fiype | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=mhZPZUcINqg)<br />[LacuS: Custom Level 35](https://www.youtube.com/watch?v=96sGquhnwPk) |
 | (2012-01-29) |  | 伪·力量V3.0 | Fake Strength v3.0 | lydjjlyd | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=gH_LmKs1sb8) |
-| 2012-01-31 | 1393669807 | 急速下坠（普通版）（前5小节测试版） \| 急速下坠V2.0 | Rapidly Plunging (Normal Ver.; Beta Version of the First 5 Sections) /| Rapidly Plunging v2.0 | skb7757 | 3 | Comprehensive |  |
+| 2012-01-31 | 1393669807 | 急速下坠（普通版）（前5小节测试版） \| 急速下坠V2.0 | Rapidly Plunging (Normal Ver.; Beta Version of the First 5 Sections) \| Rapidly Plunging v2.0 | skb7757 | 3 | Comprehensive |  |
 | 2012-02-07 | 1403320575 | 装13V1.2 | In-13 v1.2 | BallanceBug | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=RVyCStTt8gY)<br />[LacuS: Custom Level 51](https://www.youtube.com/watch?v=TdxgZj9N8g8) |
 | (\~2012-02-12) |  | 死亡边缘V1.0 | Edge of Death v1.0 | lydjjlyd | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=HZZ8x16Bw34)<br />[LacuS: Custom Level 50](https://www.youtube.com/watch?v=yfwZJ7zbzS4) |
 | 2012-03-01 | 1434863849 | 全家福 | Family Portrait | vipeazone | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qdq8hBLqN_0)<br />[LacuS: Custom Level 54](https://www.youtube.com/watch?v=53tTdt3YMwE) |
 | (2012-03-02) |  | 完美思维V1.0 | Perfect Thinking v1.0 | 金银铃控 & ageofballance | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=RyLhCmM15l0) |
 | (2012-03-04) |  | 急速翻滚V1.0 | Rapidly Rolling v1.0 | lydjjlyd | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=4SDC6xGePeU) |
 | (2012-03-24) |  | 急速翻滚V2.0 | Rapidly Rolling v2.0 | lydjjlyd | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=3CqPAGqH9Io) |
-| 2012-03-27 | 1478442288 | 脑力风暴 | Brain Challenge | vipeazone | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=uQ6JzduXMzg)<br />[LacuS: Custom Level 55](https://www.youtube.com/watch?v=JrKYRx70mFU) |
+| 2012-03-27 | 1478442288 | 脑力风暴 | Brain Challenge | W | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=uQ6JzduXMzg)<br />[LacuS: Custom Level 55](https://www.youtube.com/watch?v=JrKYRx70mFU) |
 | (\~2012-04-28) |  | 急速下坠（困难版） \| 急速下坠V3.0 | Rapidly Plunging (Hard Ver.) \| Rapidly Plunging v3.0 | skb7757 | 4 | Comprehensive |  |
 | 2012-07-01 | 1696142307 | easylevel | easylevel | 602706150 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=0mKN7NOBLG4) |
 | 2012-07-01 | 1696796417 | 魔虬 | The Devil Dragon | 失衡之梦 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=7fF_NS9lDv8) |
@@ -320,4 +320,4 @@
 | 2023-11-11 | 8711954400 | 风扇练习图 | Ventilator Practice | 其乐融融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=M4ctgvXD9ok) |
 | 2023-11-18 | 8729796717 | 四叶草图4—樱空忆雪 | Four-Leaf Clover 4—Cherry Blossom Petals in the Air Bring Back Memories of Snow v1.3 | 四叶草 (dyethx) | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=h0lvgPYDkPE) |
 | 2023-11-20 | N/A | 屋宇千秋 | Ancient Building | 其乐融融 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=98U95SYT6zw) |
-| 2023-11-29 | N/A | Path of Puzzles | Path of Puzzles | Jack02 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qplaGza3Bt0) |
+| 2023-11-29 | N/A | Path of Puzzles | Path of Puzzles | Jake02 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qplaGza3Bt0) |
