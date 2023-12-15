@@ -321,3 +321,4 @@
 | 2023-11-18 | 8729796717 | 四叶草图4—樱空忆雪 | Four-Leaf Clover 4—Cherry Blossom Petals in the Air Bring Back Memories of Snow v1.3 | 四叶草 (dyethx) | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=h0lvgPYDkPE) |
 | 2023-11-20 | N/A | 屋宇千秋 | Ancient Building | 其乐融融 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=98U95SYT6zw) |
 | 2023-11-29 | N/A | Path of Puzzles | Path of Puzzles | Jake02 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qplaGza3Bt0) |
+| 2023-12-15 | N/A | 山路十八弯 | The Mountain Road With Eighteen Turns | 其乐融融 | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=on0ukN5w8-0) |
