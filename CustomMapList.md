@@ -325,3 +325,4 @@
 | 2023-12-16 | N/A | 蛇皮走位 | Zigzag | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=NBA7JiesD8Q) |
 | 2023-12-17 | N/A | 黄金螺旋 | Golden Spiral | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=LFf5uTfE8zg) |
 | 2023-12-18 | N/A | 崎岖赛道 | Winding Track | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=YKp-lYd2B5I) |
+| 2023-12-20 | N/A | 黄金螺旋2.0 | Golden Spiral 2.0 | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=aQP8oqS4q5s) |
