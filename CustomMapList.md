@@ -1,7 +1,7 @@
 # Ballance Custom Map List
 
 | Posted | Baidu Tieba ID | Original Name | English Name | Author | Difficulty | Type | Videos |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|---|---|---|---|---|---|---|
 | 2009-08-19 | 630462643 | 天马行空 | Pie in the Sky | 失衡技师 | 3 | Comprehensive |  |
 | 2009-08-26 | 634504348 | 十字升降 | Cross Lift | 失衡技师 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=a9G-BC3krCc)<br />[LacuS: Custom Level 6](https://www.youtube.com/watch?v=TIDXMaaKnQ8) |
 | 2009-08-26 | 732291025、732498462 | 美丽图 | Beautiful | 傲骨银狼ヶ璇 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=4gs1JGqWF5I) |
@@ -320,9 +320,10 @@
 | 2023-11-11 | 8711954400 | 风扇练习图 | Ventilator Practice | 其乐融融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=M4ctgvXD9ok) |
 | 2023-11-18 | 8729796717 | 四叶草图4—樱空忆雪 | Four-Leaf Clover 4—Cherry Blossom Petals in the Air Bring Back Memories of Snow v1.3 | 四叶草 (dyethx) | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=h0lvgPYDkPE) |
 | 2023-11-20 | N/A | 屋宇千秋 | Ancient Building | 其乐融融 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=98U95SYT6zw) |
-| 2023-11-29 | N/A | Path of Puzzles | Path of Puzzles | Jake02 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qplaGza3Bt0) |
+| 2023-11-29 | N/A | Path of Puzzles | Path of Puzzles | Jake02 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qplaGza3Bt0)<br />[LacuS](https://www.youtube.com/watch?v=SOW4m55fvWU) |
 | 2023-12-15 | N/A | 山路十八弯 | The Mountain Road With Eighteen Turns | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=on0ukN5w8-0) |
 | 2023-12-16 | N/A | 蛇皮走位 | Zigzag | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=NBA7JiesD8Q) |
 | 2023-12-17 | N/A | 黄金螺旋 | Golden Spiral | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=LFf5uTfE8zg) |
 | 2023-12-18 | N/A | 崎岖赛道 | Winding Track | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=YKp-lYd2B5I) |
 | 2023-12-20 | N/A | 黄金螺旋2.0 | Golden Spiral 2.0 | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=aQP8oqS4q5s) |
+| 2024-02-04 | N/A | 骨质疏松 | Osteoporosis | 小锂电池 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=zxbD3bPcRUw) |
