@@ -1,7 +1,7 @@
 # Ballance Custom Map List
 
 | Posted | Baidu Tieba ID | Original Name | English Name | Author | Difficulty | Type | Videos |
-|---|---|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 2009-08-19 | 630462643 | 天马行空 | Pie in the Sky | 失衡技师 | 3 | Comprehensive |  |
 | 2009-08-26 | 634504348 | 十字升降 | Cross Lift | 失衡技师 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=a9G-BC3krCc)<br />[LacuS: Custom Level 6](https://www.youtube.com/watch?v=TIDXMaaKnQ8) |
 | 2009-08-26 | 732291025、732498462 | 美丽图 | Beautiful | 傲骨银狼ヶ璇 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=4gs1JGqWF5I) |
@@ -327,3 +327,4 @@
 | 2023-12-18 | N/A | 崎岖赛道 | Winding Track | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=YKp-lYd2B5I) |
 | 2023-12-20 | N/A | 黄金螺旋2.0 | Golden Spiral 2.0 | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=aQP8oqS4q5s) |
 | 2024-02-04 | N/A | 骨质疏松 | Osteoporosis | 小锂电池 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=zxbD3bPcRUw) |
+| 2024-02-10 | N/A | 多维合作 | Multivariate Cooperation | 小李子623 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=s4eUekVk9Jw) |
