@@ -329,4 +329,4 @@
 | 2024-02-04 | N/A | 骨质疏松 | Osteoporosis | 小锂电池 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=zxbD3bPcRUw) |
 | 2024-02-10 | N/A | 多维合作 | Multivariate Cooperation | 小李子623 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=s4eUekVk9Jw) |
 | 2024-02-25 | N/A | SkyRun-R | SkyRun-R | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=8_FxpmqCgOY) |
-| 2024-04-03 | N/A | 浮空秘境 | Secluded Floating Islands | 飘逸冷星 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=V3efNtpR8FU) |
+| 2024-04-03 | N/A | 浮空秘境 | Secluded Floating Islands | 湮尘灬冷曦 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=V3efNtpR8FU) |
