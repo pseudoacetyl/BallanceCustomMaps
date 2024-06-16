@@ -333,3 +333,4 @@
 | 2024-02-25 | N/A | SkyRun-R | SkyRun-R | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=8_FxpmqCgOY)<br />[LacuS](https://www.youtube.com/watch?v=g2UKe_H-nro) |
 | 2024-04-03 | 8964995082 | 浮空秘境 | Secluded Floating Islands | 湮尘灬冷曦 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=V3efNtpR8FU) |
 | 2024-06-08 | 9045331771 | 踏破虚空2.0 | Traveling Through the Void 2.0 | 湮尘灬冷曦 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=2u4AvUJio_0) |
+| 2024-06-16 | N/A | Edge of the Shade | Edge of the Shade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=WJPVbtzQbEg) |
