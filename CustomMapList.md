@@ -334,3 +334,4 @@
 | 2024-04-03 | 8964995082 | 浮空秘境 | Secluded Floating Islands | 湮尘灬冷曦 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=V3efNtpR8FU) |
 | 2024-06-08 | 9045331771 | 踏破虚空2.0 | Traveling Through the Void 2.0 | 湮尘灬冷曦 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=2u4AvUJio_0) |
 | 2024-06-16 | N/A | Edge of the Shade | Edge of the Shade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=WJPVbtzQbEg) |
+| 2024-06-21 | N/A | 滨海静晚1.0 | A Peaceful Night at the Seashore 1.0 | 9826HZg | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Cei3Gu4VBPI) |
