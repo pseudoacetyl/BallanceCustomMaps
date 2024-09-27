@@ -359,3 +359,4 @@
 | 2024-07-13 | N/A | 重力的审判 | Trial of Gravity | 小李子623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=VotyOj5TlOQ) |
 | 2024-08-25 | 9145563541 | 幻实 | Illusion and Reality | Entity_303 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=JAz1IGQi_Ig) |
 | 2024-09-01 | N/A | 20个石球 | 20 Stone Balls | 其乐融融 | 4 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=w8zCmtNyDy4) |
+| 2024-09-27 | 9192797055 | 初心回廊 | Corridors of the Initial Intention | 澈零_星魂 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=YEtrrV6FOTQ) |
