@@ -360,3 +360,4 @@
 | 2024-08-25 | 9145563541 | 幻实 | Illusion and Reality | Entity_303 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=JAz1IGQi_Ig) |
 | 2024-09-01 | N/A | 20个石球 | 20 Stone Balls | 其乐融融 | 4 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=w8zCmtNyDy4) |
 | 2024-09-27 | 9192797055 | 初心回廊 | Corridors of the Initial Intention | 澈零_星魂 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=YEtrrV6FOTQ) |
+| 2024-09-29 | 9199739022 | 云端掩埋场 | Landfill in the Clouds | chirs241097 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=piwFM5UBUS8) |
