@@ -132,7 +132,7 @@
 | 2015-02-23 | 3599526856 | 平衡迷城V1.3 | Ballance Bewildering City v1.3 | 平衡总统 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=blWBlCh-6OE)<br />[LacuS: Custom Level 56](https://www.youtube.com/watch?v=lPJrcM8X500) |
 | 2015-02-26 | 3605482886 | 平衡小坑V2.0 | Ballance Scam v2.0 | fiype | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=23i-6alCfBQ) |
 | 2015-03-31 | 3671312657 | I wanna pass the level | I wanna pass the level | Burning红云 | 5 | Comprehensive |  |
-| 2015-04-25 | 3722524428 | 地月穿梭V1.2 | Shuffle Between Earth and Moon | 平衡总统 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Qlcd9zRHB8E)<br />[LacuS: Custom Level 6](https://www.youtube.com/watch?v=eD15y2QhUdY) |
+| 2015-04-25 | 3722524428 | 地月穿梭V1.2 | Shuffle Between Earth and Moon v1.2 | 平衡总统 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Qlcd9zRHB8E)<br />[LacuS: Custom Level 6](https://www.youtube.com/watch?v=eD15y2QhUdY) |
 | (2015-05-31) |  | 我的平衡世界V1.0 | My Ballance World v1.0 | 平衡总统 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qbf_46eIT5g) |
 | 2015-06-29 | 3859468229 | 危险路段 | Dangerous Sections of Roads | 平衡总统 | 4 | Comprehensive | [桜埜叶毣](httpswww.youtube.comwatchv=r6y3J4xm7Ng)<br />[LacuS: Custom Level 81](https://www.youtube.com/watch?v=oKxlqBXKp7Y) |
 | 2015-07-14 |  | 浮空岛V1.0 | Floating Islands v1.0 | 廖景萱forsyth | 3 | Landscape | [桜埜叶毣](https://www.youtube.com/watch?v=cJeIuWy9oXY) |
@@ -363,3 +363,4 @@
 | 2024-09-29 | 9199739022 | 云端掩埋场 | Landfill in the Clouds | chirs241097 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=piwFM5UBUS8) |
 | 2024-10-18 | 9225990076 | 大恒图：起源 | Daheng: Origin | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=b80xGVpQlpc) |
 | 2024-10-23 | 9233894568 | 冰空心语 | Heartfelt Words in the Frozen Sky | 湮尘灬冷曦 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=3iOI7XzmBHA) |
+| 2024-11-01 | N/A | 萌新快乐图4 | Beginners Happiness 4 | dahkjdas | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=KoP5eYmjOiM) |
