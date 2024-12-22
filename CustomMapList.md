@@ -353,6 +353,7 @@
 | 2024-02-10 | N/A | 多维合作 | Multivariate Cooperation | 小李子623 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=s4eUekVk9Jw) |
 | 2024-02-25 | N/A | SkyRun-R | SkyRun-R | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=8_FxpmqCgOY) |
 | 2024-04-03 | 8964995082 | 浮空秘境 | Secluded Floating Islands | 湮尘灬冷曦 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=V3efNtpR8FU) |
+| 2024-05-25 | N/A | Blender制图教程示例图 | Demo Map of the Blender Mapping Tutorial | yyc12345 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=XSixq1RXrRc) |
 | 2024-06-08 | 9045331771 | 踏破虚空2.0 | Traveling Through the Void 2.0 | 湮尘灬冷曦 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=2u4AvUJio_0) |
 | 2024-06-16 | N/A | Edge of the Shade | Edge of the Shade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=WJPVbtzQbEg) |
 | 2024-06-21 | 9061971811 | 滨海静晚1.0 | A Peaceful Night at the Seashore 1.0 | 9826HZg | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Cei3Gu4VBPI) |
@@ -364,3 +365,4 @@
 | 2024-10-18 | 9225990076 | 大恒图：起源 | Daheng: Origin | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=b80xGVpQlpc) |
 | 2024-10-23 | 9233894568 | 冰空心语 | Heartfelt Words in the Frozen Sky | 湮尘灬冷曦 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=3iOI7XzmBHA) |
 | 2024-11-01 | N/A | 萌新快乐图4 | Beginners Happiness 4 | dahkjdas | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=KoP5eYmjOiM) |
+| 2024-12-20 | N/A | Painstaking Journey | Painstaking Journey | pseudoacetyl | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=p0HLEqpQyvs) |
