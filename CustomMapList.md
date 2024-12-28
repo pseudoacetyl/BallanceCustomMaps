@@ -363,6 +363,9 @@
 | 2024-09-27 | 9192797055 | 初心回廊 | Corridors of the Initial Intention | 澈零_星魂 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=YEtrrV6FOTQ) |
 | 2024-09-29 | 9199739022 | 云端掩埋场 | Landfill in the Clouds | chirs241097 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=piwFM5UBUS8) |
 | 2024-10-18 | 9225990076 | 大恒图：起源 | Daheng: Origin | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=b80xGVpQlpc) |
-| 2024-10-23 | 9233894568 | 冰空心语 | Heartfelt Words in the Frozen Sky | 湮尘灬冷曦 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=3iOI7XzmBHA) |
+| 2024-10-23 | 9233894568 | 冰空心语 | Heartfelt Words in the Frozen Sky | 湮尘灬冷曦 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=3iOI7XzmBHA) |
 | 2024-11-01 | N/A | 萌新快乐图4 | Beginners Happiness 4 | dahkjdas | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=KoP5eYmjOiM) |
 | 2024-12-20 | N/A | Painstaking Journey | Painstaking Journey | pseudoacetyl | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=p0HLEqpQyvs) |
+| 2024-12-27 | 9364681398 | 决战冰立方——密码 | Dueling With the Ice Cube—Password | 湮尘灬冷曦 | 3 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=1j4qRlUfvVY) |
+| 2024-12-27 | 9364681398 | 决战冰立方——天险 | Dueling With the Ice Cube—Precipitous Natural Terrain | 湮尘灬冷曦 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=RAEfb_ynyKM) |
+| 2024-12-27 | 9364681398 | 决战冰立方——深邃 | Dueling With the Ice Cube—Abstruse | 湮尘灬冷曦 | 5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=NnSm_J_9r88) |
