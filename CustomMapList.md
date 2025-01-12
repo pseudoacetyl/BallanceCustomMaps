@@ -288,8 +288,8 @@
 | 2021-07-16 | 7451660850 | 该隐图1.3 | Cain123 1.3 | 该隐 & Ballexer | 5 | Technical |  |
 | 2021-08-12 | 7491097266 | 该隐图1.2 | Cain123 1.2 | 该隐 & Ballexer | 5 | Technical |  |
 | 2021-08-24 | 7509872069 | 永恒之心1.2 | Eternal Heart 1.2 | Lonely Snow | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=i1hnnUr3WNk)<br />[LacuS: Custom Level 71](https://www.youtube.com/watch?v=0qlyFXfzfp4) |
-| 2021-09-21 | 7509872069 | 永恒之心2.0—九死一生 | Eternal Heart 2.0—Narrow Escape | Lonely Snow | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=i1hnnUr3WNk)<br />[LacuS: Custom Level 71](https://www.youtube.com/watch?v=0qlyFXfzfp4) |
-| 2021-11-12 | 7509872069 | 永恒之心3.0—四核逻辑 | Eternal Heart 3.0—Quad-Core Logic | Lonely Snow | 4.5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=i1hnnUr3WNk)<br />[LacuS: Custom Level 71](https://www.youtube.com/watch?v=0qlyFXfzfp4) |
+| 2021-09-21 | 7509872069 | 永恒之心2.0—九死一生 | Eternal Heart 2.0—Narrow Escape | Lonely Snow | 5 | Technical |  |
+| 2021-11-12 | 7509872069 | 永恒之心3.0—四核逻辑 | Eternal Heart 3.0—Quad-Core Logic | Lonely Snow | 4.5 | Comprehensive |  |
 | 2021-12-29 | 7676433098 | 四叶草图2 | Four-Leaf Clover 2 | 四叶草 (dyethx) | 4 | Comprehensive |  |
 | 2022-01-07 | 7687263903 | 大恒图8.1-木板逻辑 | Daheng 8.1—Plank Logic | dahkjdas | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=KwR5PSghRcE) |
 | 2022-01-07 | 7687263903 | 大恒图8.2-置换中枢 | Daheng 8.2—Displacement Center | dahkjdas | 1.5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=UTXibOjV04Y) |
@@ -359,6 +359,7 @@
 | 2024-06-21 | 9061971811 | 滨海静晚1.0 | A Peaceful Night at the Seashore 1.0 | 9826HZg | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Cei3Gu4VBPI) |
 | 2024-07-13 | N/A | 重力的审判 | Trial of Gravity | 小李子623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=VotyOj5TlOQ) |
 | 2024-08-25 | 9145563541 | 幻实 | Illusion and Reality | Entity_303 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=JAz1IGQi_Ig) |
+| 2024-08-26 | N/A | 异于往日（zzz） | Different From the Past (zzz) | 小锂电池 | 3 | Comprehensive |  |
 | 2024-09-01 | N/A | 20个石球 | 20 Stone Balls | 其乐融融 | 4 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=w8zCmtNyDy4) |
 | 2024-09-27 | 9192797055 | 初心回廊 | Corridors of the Initial Intention | 澈零_星魂 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=YEtrrV6FOTQ) |
 | 2024-09-29 | 9199739022 | 云端掩埋场 | Landfill in the Clouds | chirs241097 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=piwFM5UBUS8) |
@@ -369,3 +370,7 @@
 | 2024-12-27 | 9364681398 | 决战冰立方——密码 | Dueling With the Ice Cube—Password | 湮尘灬冷曦 | 3 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=1j4qRlUfvVY) |
 | 2024-12-27 | 9364681398 | 决战冰立方——天险 | Dueling With the Ice Cube—Precipitous Natural Terrain | 湮尘灬冷曦 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=RAEfb_ynyKM) |
 | 2024-12-27 | 9364681398 | 决战冰立方——深邃 | Dueling With the Ice Cube—Abstruse | 湮尘灬冷曦 | 5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=NnSm_J_9r88) |
+| 2025-01-08 | 9397502236 | 百变小球 | Frequent Transformations | 走路草 | 5 | Logical |  |
+| 2025-01-09 | N/A | Queen Ball (Easy Ver.) | Queen Ball (Easy Ver.) | pseudoacetyl | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=NUdg53EFUtM) |
+| 2025-01-10 | N/A | Queen Ball (Hard Ver.) | Queen Ball (Hard Ver.) | pseudoacetyl | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=Sq10sBrBQ8g) |
+| 2025-01-11 | N/A | 20周年纪念图 | 20th Anniversary Commemorative Map | 其乐融融 & 湮尘灬冷曦 | 3 | Comprehensive |  |
