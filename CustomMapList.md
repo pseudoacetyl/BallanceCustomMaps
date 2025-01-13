@@ -339,11 +339,11 @@
 | 2023-08-28 | 8573884923 | 地球之上——第一宇宙速度 | Above the Earth—First Cosmic Velocity | Entity_303 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=zEFbfIxuYII) |
 | 2023-10-01 | N/A | 神逻鬼道 | Heretical Logic | 小李子623 | 4 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=sJ62daMNxaE) |
 | 2023-10-04 | N/A | Crying Steel | Crying Steel | Kry | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=rUz8N86_hJQ) |
-| 2023-10-12 | N/A | The Masquerade | The Masquerade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=iUJnJQfEGlk) |
+| 2023-10-12 | N/A | The Masquerade | The Masquerade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=iUJnJQfEGlk)<br />[LacuS](https://www.youtube.com/watch?v=Z6mQLIKQtNo) |
 | 2023-11-11 | 8711954400 | 风扇练习图 | Ventilator Practice | 其乐融融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=M4ctgvXD9ok) |
 | 2023-11-18 | 8729796717 | 四叶草图4—樱空忆雪 | Four-Leaf Clover 4—Cherry Blossom Petals in the Air Bring Back Memories of Snow v1.3 | 四叶草 (dyethx) | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=h0lvgPYDkPE) |
 | 2023-11-20 | N/A | 屋宇千秋 | Ancient Building | 其乐融融 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=98U95SYT6zw) |
-| 2023-11-29 | N/A | Path of Puzzles | Path of Puzzles | Jake02 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qplaGza3Bt0) |
+| 2023-11-29 | N/A | Path of Puzzles | Path of Puzzles | Jake02 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qplaGza3Bt0)<br />[LacuS](https://www.youtube.com/watch?v=SOW4m55fvWU) |
 | 2023-12-15 | N/A | 山路十八弯 | The Mountain Road With Eighteen Turns | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=on0ukN5w8-0) |
 | 2023-12-16 | N/A | 蛇皮走位 | Zigzag | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=NBA7JiesD8Q) |
 | 2023-12-17 | N/A | 黄金螺旋 | Golden Spiral | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=LFf5uTfE8zg) |
@@ -351,7 +351,7 @@
 | 2023-12-20 | N/A | 黄金螺旋2.0 | Golden Spiral 2.0 | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=aQP8oqS4q5s) |
 | 2024-02-04 | N/A | 骨质疏松 | Osteoporosis | 小锂电池 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=zxbD3bPcRUw) |
 | 2024-02-10 | N/A | 多维合作 | Multivariate Cooperation | 小李子623 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=s4eUekVk9Jw) |
-| 2024-02-25 | N/A | SkyRun-R | SkyRun-R | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=8_FxpmqCgOY) |
+| 2024-02-25 | N/A | SkyRun-R | SkyRun-R | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=8_FxpmqCgOY)<br />[LacuS](https://www.youtube.com/watch?v=g2UKe_H-nro) |
 | 2024-04-03 | 8964995082 | 浮空秘境 | Secluded Floating Islands | 湮尘灬冷曦 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=V3efNtpR8FU) |
 | 2024-05-25 | N/A | Blender制图教程示例图 | Demo Map of the Blender Mapping Tutorial | yyc12345 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=XSixq1RXrRc) |
 | 2024-06-08 | 9045331771 | 踏破虚空2.0 | Traveling Through the Void 2.0 | 湮尘灬冷曦 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=2u4AvUJio_0) |
@@ -370,7 +370,8 @@
 | 2024-12-27 | 9364681398 | 决战冰立方——密码 | Dueling With the Ice Cube—Password | 湮尘灬冷曦 | 3 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=1j4qRlUfvVY) |
 | 2024-12-27 | 9364681398 | 决战冰立方——天险 | Dueling With the Ice Cube—Precipitous Natural Terrain | 湮尘灬冷曦 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=RAEfb_ynyKM) |
 | 2024-12-27 | 9364681398 | 决战冰立方——深邃 | Dueling With the Ice Cube—Abstruse | 湮尘灬冷曦 | 5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=NnSm_J_9r88) |
-| 2025-01-08 | 9397502236 | 百变小球 | Frequent Transformations | 走路草 | 5 | Logical |  |
+| 2025-01-08 | 9397502236 | 百变小球 | Frequent Transformations | 走路草 | 5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=crkkfaEzNXY) |
 | 2025-01-09 | N/A | Queen Ball (Easy Ver.) | Queen Ball (Easy Ver.) | pseudoacetyl | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=NUdg53EFUtM) |
 | 2025-01-10 | N/A | Queen Ball (Hard Ver.) | Queen Ball (Hard Ver.) | pseudoacetyl | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=Sq10sBrBQ8g) |
-| 2025-01-11 | N/A | 20周年纪念图 | 20th Anniversary Commemorative Map | 其乐融融 & 湮尘灬冷曦 | 3 | Comprehensive |  |
+| 2025-01-11 | N/A | 20周年纪念图 | 20th Anniversary Commemorative Map | 其乐融融 & 湮尘灬冷曦 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Lnfx68CW-YQ) |
+| 2025-01-13 | N/A | 制图视频教程演示关卡V2.0 | Tutorial Demo Map of Ballance Mapping Video v2.0 | 湮尘灬冷曦 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=dIDmRXudyD0) |
