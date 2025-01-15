@@ -375,3 +375,4 @@
 | 2025-01-10 | N/A | Queen Ball (Hard Ver.) | Queen Ball (Hard Ver.) | pseudoacetyl | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=Sq10sBrBQ8g) |
 | 2025-01-11 | N/A | 20周年纪念图 | 20th Anniversary Commemorative Map | 其乐融融 & 湮尘灬冷曦 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Lnfx68CW-YQ) |
 | 2025-01-13 | N/A | 制图视频教程演示关卡V2.0 | Tutorial Demo Map of Ballance Mapping Video v2.0 | 湮尘灬冷曦 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=dIDmRXudyD0) |
+| 2025-01-14 | N/A | 萌新快乐图5 | Beginners Happiness 5 | dahkjdas | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=jQi5n__Yg9M) |
