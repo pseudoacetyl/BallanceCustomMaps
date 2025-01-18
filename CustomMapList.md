@@ -1,7 +1,7 @@
 # Ballance Custom Map List
 
 | Posted | Baidu Tieba ID | Original Name | English Name | Author | Difficulty | Type | Videos |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|---|---|---|---|---|---|---|---|
 | 2009-08-19 | 630462643 | 天马行空 | Pie in the Sky | 失衡技师 | 3 | Comprehensive |  |
 | 2009-08-26 | 634504348 | 十字升降 | Cross Lift | 失衡技师 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=a9G-BC3krCc)<br />[LacuS: Custom Level 6](https://www.youtube.com/watch?v=TIDXMaaKnQ8) |
 | 2009-08-26 | 732291025、732498462 | 美丽图 | Beautiful | 傲骨银狼ヶ璇 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=4gs1JGqWF5I) |
@@ -376,3 +376,4 @@
 | 2025-01-11 | N/A | 20周年纪念图 | 20th Anniversary Commemorative Map | 其乐融融 & 湮尘灬冷曦 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Lnfx68CW-YQ) |
 | 2025-01-13 | N/A | 制图视频教程演示关卡V2.0 | Tutorial Demo Map of Ballance Mapping Video v2.0 | 湮尘灬冷曦 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=dIDmRXudyD0) |
 | 2025-01-14 | N/A | 萌新快乐图5 | Beginners Happiness 5 | dahkjdas | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=jQi5n__Yg9M) |
+| 2025-01-18 | N/A | Ramble Through the Storm | Ramble Through the Storm | pseudoacetyl | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=z3Ee6VCC1zo) |
