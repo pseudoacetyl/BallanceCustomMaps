@@ -379,3 +379,4 @@
 | 2025-01-18 | N/A | Ramble Through the Storm | Ramble Through the Storm | pseudoacetyl | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=z3Ee6VCC1zo) |
 | 2025-01-28 | N/A | 逐光之梦 | The Dream of Chasing Light | dahkjdas | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=0iidoY2TY3Y) |
 | 2025-02-08 | N/A | 大佬快乐图 | Dalaos Happiness | 湮尘灬冷曦 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=HaQwboz0WI4) |
+| 2025-02-12 | N/A | 谜雾 | Misty | 小李子623 & Ghomist | 2 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=LtRVZ5WWuVM) |
