@@ -382,3 +382,4 @@
 | 2025-02-12 | N/A | 谜雾 | Misty | 小李子623 & Ghomist | 2 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=LtRVZ5WWuVM) |
 | 2025-02-17 | N/A | 流浪行星 | Rogue Planet | SomeOne_001 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=BMpuglo_ITQ) |
 | 2025-02-28 | N/A | 梦回2025 | Dreaming Back to 2025 | 其乐融融 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=MBJzOvgkLVk) |
+| 2025-03-14 | N/A | 仿射空间站 | Affine Space Station | 湮尘灬冷曦 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=1eNcsq678Gc) |
