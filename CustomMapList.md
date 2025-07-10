@@ -211,15 +211,15 @@
 | 2020-01-30 | 6465916551 | 大恒图4.0-大恒棋局 | Daheng 4.0—Daheng Chess Game | dahkjdas | 5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=32_iX9Kqay4) |
 | 2020-01-30 | 6465916551 | 大恒图4 Extra-大恒棋局Extra | Daheng 4 Extra—Daheng Chess Game Extra | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=Pt54Rur67U0) |
 | 2020-02-04 | 6510269122 | 四面楚歌 | Be Besieged on All Sides | 湮尘灬冷曦 | 4 | Comprehensive |  |
-| 2020-02-15 | 6493026377 | 大恒图5.1-大恒战旗—捷径 | Daheng 5.1—Daheng War Flag—Shortcuts | dahkjdas | 2 | Comprehensive |  |
-| 2020-02-15 | 6493026377 | 大恒图5.2-大恒战旗—层次 | Daheng 5.2—Daheng War Flag—Layers | dahkjdas | 4 | Logical |  |
-| 2020-02-15 | 6493026377 | 大恒图5.3-大恒战旗—速度 | Daheng 5.3—Daheng War Flag—Speed | dahkjdas | 4 | Technical |  |
+| 2020-02-15 | 6493026377 | 大恒图5.1-大恒战旗—捷径 | Daheng 5.1—Daheng War Flag—Shortcuts | dahkjdas | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=hVLORx3dxVQ) |
+| 2020-02-15 | 6493026377 | 大恒图5.2-大恒战旗—层次 | Daheng 5.2—Daheng War Flag—Layers | dahkjdas | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=4gL_iCuEo8A) |
+| 2020-02-15 | 6493026377 | 大恒图5.3-大恒战旗—速度 | Daheng 5.3—Daheng War Flag—Speed | dahkjdas | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=yDFBT8JshO8) |
 | 2020-02-17 | 6497342735 | 龙战鱼骇V1.2 | Fierce Battles v1.2 | 9826HZg | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=lSKcKjoqFO4) |
 | 2020-02-29 | 6519792596 | 天宫街市 | Heaven Downtown | whyyy & dahkjdas | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=l7VNotAH48Q) |
 | 2020-03-13 | 6547541232 | 星幻云阶 | Fantasy Stars Style Cloud Stairs | 湮尘灬冷曦 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=vZdoKBp41bY)<br />[LacuS: Custom Level 33](https://www.youtube.com/watch?v=fZuY4PuI8nw) |
-| 2020-03-15 | 6551889171 | 大恒图5.4-大恒战旗—搬运 | Daheng 5.4—Daheng War Flag—Transport | dahkjdas | 5 | Logical |  |
-| 2020-03-15 | 6551889171 | 大恒图5.5-大恒战旗—时机 | Daheng 5.5—Daheng War Flag—Timings | dahkjdas | 3 | Technical |  |
-| 2020-03-15 | 6551889171 | 大恒图5.6-大恒战旗—仿原 | Daheng 5.6—Daheng War Flag—Imitations of Original Levels | dahkjdas | 2 | Comprehensive |  |
+| 2020-03-15 | 6551889171 | 大恒图5.4-大恒战旗—搬运 | Daheng 5.4—Daheng War Flag—Transport | dahkjdas | 5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=fRRw0xoNi4M) |
+| 2020-03-15 | 6551889171 | 大恒图5.5-大恒战旗—时机 | Daheng 5.5—Daheng War Flag—Timings | dahkjdas | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=SlXfYgelIGQ) |
+| 2020-03-15 | 6551889171 | 大恒图5.6-大恒战旗—仿原 | Daheng 5.6—Daheng War Flag—Imitations of Original Levels | dahkjdas | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=7gK4x_7l1aE) |
 | 2020-03-20 | 6563007280 | 您先别急 | No Rush 1.1 | 小小ballancer | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=XYA_IpGkkCo)<br />[LacuS: Custom Level 34](https://www.youtube.com/watch?v=_dJlHYdS7MA) |
 | 2020-03-26 | 6576396155 | 四中挑战01-悬崖勒马 | Sizhong Challenges 01—Rein in the Horse at the Edge of the Precipice | 四中2014届1班 | 1.5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=XaWYFAW7NuY) |
 | 2020-03-26 | 6576396155 | 四中挑战02-狐假虎威 | Sizhong Challenges 02—The Fox Exploits the Tiger's Might | 四中2014届1班 | 2.5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=BMxzPNznBvA) |
@@ -236,9 +236,9 @@
 | 2020-04-24 | 6640149436 | 四中挑战07-桌球乐园 | Sizhong Challenges 07—Billiards Paradise | 四中2014届1班 | 2.5 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=bNUZ-Mok-yo) |
 | 2020-04-24 | 6640149436 | 四中挑战08-激流勇进 | Sizhong Challenges 08—Super Splash | 四中2014届1班 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=kUtmwCUZ5RY) |
 | 2020-04-24 | 6640149436 | 四中挑战09-长途列车 | Sizhong Challenges 09—Long-Distance Train | 四中2014届1班 | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=DrweSkguUCc) |
-| 2020-04-25 | 6642139192 | 大恒图5.7-大恒战旗—星斗 | Daheng 5.7—Daheng War Flag—Stars | dahkjdas | 3 | Logical |  |
-| 2020-04-25 | 6642139192 | 大恒图5.8-大恒战旗—即兴 | Daheng 5.8—Daheng War Flag—Improvisations | dahkjdas | 4 | Comprehensive |  |
-| 2020-04-25 | 6642139192 | 大恒图5 Extra-大恒战旗Ex | Daheng 5 Extra—Daheng War Flag Ex. | dahkjdas | 3 | Logical |  |
+| 2020-04-25 | 6642139192 | 大恒图5.7-大恒战旗—星斗 | Daheng 5.7—Daheng War Flag—Stars | dahkjdas | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=s8uS6pbInmo) |
+| 2020-04-25 | 6642139192 | 大恒图5.8-大恒战旗—即兴 | Daheng 5.8—Daheng War Flag—Improvisations | dahkjdas | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=afebP_KJ1oY) |
+| 2020-04-25 | 6642139192 | 大恒图5 Extra-大恒战旗Ex | Daheng 5 Extra—Daheng War Flag Ex. | dahkjdas | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=oY92F1HDk5g) |
 | 2020-04-30 | 6651962392 | 谜域雾都 | Foggy City in the Mystery Zone | 湮尘灬冷曦 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=7J50YdB3DdM) |
 | 2020-05-16 | 6685526037 | 200516图 | Map 200516 | BallanceBug | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=1LaTIiiBPE0)<br />[LacuS: Custom Level 38](https://www.youtube.com/watch?v=lIDhrQbafNI) |
 | 2020-05-23 | 6700441841 | 逻辑时代 | Evolution of Logic | dahkjdas | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=0L338KaAEfI) |
@@ -277,19 +277,19 @@
 | 2021-04-24 | 7317512349 | 路面操作 | Road Controlling | Entity_303 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=iOGwi8mjotQ) |
 | 2021-04-30 | 7326684050 | 逻技地带 | Skillogic Zone | Ballexer | 3 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=T-8EU3KuKhE)<br />[LacuS: Custom Level 63](https://www.youtube.com/watch?v=yVGcGn9bISE) |
 | 2021-05-05 | 7333209128 | 自动图 | Automatic | Ballexer | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=bTLuaz5Un_I)<br />[LacuS: AutoMap](https://www.youtube.com/watch?v=bvR9c2LzQGU) |
-| 2021-05-09 | 7340511646 | 该隐图1.1 | Cain123 1.1 | 该隐 & Ballexer | 5 | Technical |  |
+| 2021-05-09 | 7340511646 | 该隐图1.1 | Cain123 1.1 | 该隐 & Ballexer | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=wQ_GpY6eKCM) |
 | 2021-05-15 | 7351967435 | 逻技漏洞 | Skillogic Vulnerability | Entity_303 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=xlHewSr89qE)<br />[LacuS: Custom Level 73](https://www.youtube.com/watch?v=NHhJcYHp1Ik) |
 | 2021-05-30 | 7380941094 | 210522图 | Map 210522 | BallanceBug | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=lzCFniVsw7U)<br />[LacuS: Custom Level 67](https://www.youtube.com/watch?v=JEDTzQn-IIU) |
-| 2021-05-31 | 7382730990 | 该隐图1.4困简单版 | Cain123 1.4 (Easy Ver.) | 该隐 & Ballexer | 3 | Technical |  |
-| 2021-05-31 | 7382730990 | 该隐图1.4困难版 | Cain123 1.4 (Hard Ver.) | 该隐 & Ballexer | 5 | Technical |  |
+| 2021-05-31 | 7382730990 | 该隐图1.4简单版 | Cain123 1.4 (Easy Ver.) | 该隐 & Ballexer | 3 | Technical |  |
+| 2021-05-31 | 7382730990 | 该隐图1.4困难版 | Cain123 1.4 (Hard Ver.) | 该隐 & Ballexer | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=dKyk20RVFtc) |
 | 2021-06-11 | 7399220321 | 大恒图7—恒纪元 | Daheng 7—Heng Epoch | dahkjdas | 5 | Comprehensive |  |
 | 2021-07-01 | 7430304935 | 四叶草图 | Four-Leaf Clover | 四叶草 (dyethx) | 4 | Comprehensive |  |
 | 2021-07-09 | 7442097258 | 萌新快乐图3 | Beginners Happiness 3 | dahkjdas | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=CBb1FKEn5l8)<br />[LacuS: Custom Level 69](https://www.youtube.com/watch?v=T16JGt5DIx8) |
-| 2021-07-16 | 7451660850 | 该隐图1.3 | Cain123 1.3 | 该隐 & Ballexer | 5 | Technical |  |
-| 2021-08-12 | 7491097266 | 该隐图1.2 | Cain123 1.2 | 该隐 & Ballexer | 5 | Technical |  |
-| 2021-08-24 | 7509872069 | 永恒之心1.2 | Eternal Heart 1.2 | Lonely Snow | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=i1hnnUr3WNk)<br />[LacuS: Custom Level 71](https://www.youtube.com/watch?v=0qlyFXfzfp4) |
-| 2021-09-21 | 7509872069 | 永恒之心2.0—九死一生 | Eternal Heart 2.0—Narrow Escape | Lonely Snow | 5 | Technical |  |
-| 2021-11-12 | 7509872069 | 永恒之心3.0—四核逻辑 | Eternal Heart 3.0—Quad-Core Logic | Lonely Snow | 4.5 | Comprehensive |  |
+| 2021-07-16 | 7451660850 | 该隐图1.3 | Cain123 1.3 | 该隐 & Ballexer | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=XeUPxX3AUQ4) |
+| 2021-08-12 | 7491097266 | 该隐图1.2 | Cain123 1.2 | 该隐 & Ballexer | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=tMKFtizk5gA) |
+| 2021-08-24 | 7509872069 | 永恒之心1.2 | Eternal Heart 1.2 | 北顾夕 Lonely Snow | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=i1hnnUr3WNk)<br />[LacuS: Custom Level 71](https://www.youtube.com/watch?v=0qlyFXfzfp4) |
+| 2021-09-21 | 7509872069 | 永恒之心2.0—九死一生 | Eternal Heart 2.0—Narrow Escape | 北顾夕 Lonely Snow | 5 | Technical |  |
+| 2021-11-12 | 7509872069 | 永恒之心3.0—四核逻辑 | Eternal Heart 3.0—Quad-Core Logic | 北顾夕 Lonely Snow | 4.5 | Comprehensive |  |
 | 2021-12-29 | 7676433098 | 四叶草图2 | Four-Leaf Clover 2 | 四叶草 (dyethx) | 4 | Comprehensive |  |
 | 2022-01-07 | 7687263903 | 大恒图8.1-木板逻辑 | Daheng 8.1—Plank Logic | dahkjdas | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=KwR5PSghRcE) |
 | 2022-01-07 | 7687263903 | 大恒图8.2-置换中枢 | Daheng 8.2—Displacement Center | dahkjdas | 1.5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=UTXibOjV04Y) |
@@ -303,7 +303,7 @@
 | 2022-03-02 | 7745564466 | 时空之梦 | Dream of Space-Time | 夜空云玲 | 2.5–3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=BeYXA6lJ_Ls) |
 | 2022-03-03 | 7746068535 | 梦回2022 | Dreaming Back to 2022 | 其乐融融 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=xD4Q1aJczL4) |
 | 2022-04-29 | 7816154256 | 6A级山地观光 | AAAAAA Class Mountain Scenery | schtonn | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W0s9deB0-5s) |
-| 2022-05-03 | 7820366430 | 永恒之心4.0—奇异空间 | Eternal Heart 4.0—Singular Space | Lonely Snow | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=WdDl2ETEPHY) |
+| 2022-05-03 | 7820366430 | 永恒之心4.0—奇异空间 | Eternal Heart 4.0—Singular Space | 北顾夕 Lonely Snow | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=WdDl2ETEPHY) |
 | 2022-05-21 | 7844393615 | 镜界空轨(220521图) | Sky Rails in the Mirror World (Map 220521) | BallanceBug | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ZbNC9if35Ys) |
 | 2022-06-19 | 7885730075 | 6A级群岛观光 | AAAAAA Class Islands Scenery | schtonn | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ckpcoaIohlo) |
 | 2022-07-16 | N/A | 220716图 | Map 220716 | lydjjlyd | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=8jiOuXLuixA) |
@@ -386,3 +386,4 @@
 | 2025-03-29 | N/A | Safety_Second | Safety_Second | 9826HZg | 2 | Comprehensive |  |
 | 2025-04-06 | N/A | 泛舟 | Rafting | SomeOne_001 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Rc-TFRaQ2hU) |
 | 2025-04-30 | N/A | 250430图 | Map 250430 | lydjjlyd | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5ulHkrV51Ro) |
+| 2025-07-03 | 9842782089 | 匹诺康尼城 | Penacony City | 北顾夕 Lonely Snow | 5 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=bQ9blqYOqF8) |
