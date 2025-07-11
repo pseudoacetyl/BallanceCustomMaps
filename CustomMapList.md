@@ -387,3 +387,4 @@
 | 2025-04-06 | N/A | 泛舟 | Rafting | SomeOne_001 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Rc-TFRaQ2hU) |
 | 2025-04-30 | N/A | 250430图 | Map 250430 | lydjjlyd | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5ulHkrV51Ro) |
 | 2025-07-03 | 9842782089 | 匹诺康尼城 | Penacony City | 北顾夕 Lonely Snow | 5 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=bQ9blqYOqF8) |
+| 2025-07-11 | N/A | 胶垣漫游 | Traveling on Rubber Walls | 小李子623 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=RhV4wqyOX7Y) |
