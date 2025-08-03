@@ -35,9 +35,9 @@
 | 2011-08-06 | 1189749651 | 近在咫尺 | Near at Hand | skb7757 | 3 | Comprehensive |  |
 | (\~2011-08-14) |  | 晶格Lv1 | Lattice Lv1 | (Anonymous) | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=O1h9GFMc_9E) |
 | 2011-08-30 | 1194800119 | 灰城勿扰 | No Sincerity No Bothering | Gamepiaynmo | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=xailgyGG5EU) |
-| 2011-10-02 | 1230412188 | 勇往直前V1.0 | Go Ahead v1.0 | Gamepiaynmo | 5 | Comprehensive |  |
+| 2011-10-02 | 1230412188 | 勇往直前V1.0 | Go Ahead v1.0 | Gamepiaynmo | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=DC6DY0QDh1I) |
 | 2011-10-23 | 1255573615 | 急速下坠（测试版）（第一版） \| 急速下坠V1.0 | Rapidly Plunging (Beta; v1) \| Rapidly Plunging v1.0 | skb7757 | 3 | Comprehensive |  |
-| 2011-11-06 | 1272773672 | 勇往直前V2.0 | Go Ahead v2.0 | Gamepiaynmo | 5 | Comprehensive |  |
+| 2011-11-06 | 1272773672 | 勇往直前V2.0 | Go Ahead v2.0 | Gamepiaynmo | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=LbRHsCtyPKo) |
 | (\~2011-11-12) |  | BT图 | Abnormal | 61粉丝 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ElYmN9sGbgA) |
 | 2011-12-04 | 1309737138 | Ballance Wooden | Ballance Wooden | 2jjy & BallanceBug | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=XxOlaR-xctY) |
 | 2012-01-03 | 1350884058 | Ballance嘉年华V1.1 | Ballance Carnival v1.1 | fiype | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=pM01nIBerVE) |
@@ -72,7 +72,7 @@
 | 2012-08-25 |  | 死亡蜕变V1.1 | Death and Metamorphosis | ZYL | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=1BVo2UWtYFs)<br />[LacuS: Custom Level 24](https://www.youtube.com/watch?v=Dw3UsL6cmHA) |
 | 2012-08-26 | 1819450596 | 钢轨世界3：雾都 | World of Rails 3: Foggy City | Burning红云 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=lOOsXgQLzt0) |
 | 2012-08-30 | 1828996313 | 伪·力量V4.4 | Fake Strength v4.4 | 紧张哦2007324 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=gfMPSCb7A_U) |
-| (\~2012-09-06) |  | 智慧迷局 | Wisdom Unknown | 金银铃控 | 5 | Comprehensive |  |
+| (\~2012-09-06) |  | 智慧迷局 | Wisdom Unknown | 金银铃控 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Q7A6_RxktEo) |
 | (\~2012-09-08) |  | Space Rail V1.0 | Space Rail v1.0 | 超级玛丽smile | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=L5WiWOgjL2k)<br />[LacuS: Another Rail Level](https://www.youtube.com/watch?v=909ZLVe67a0) |
 | 2012-09-08 | 1847988925 | Space Rail V2.0 | Space Rail v2.0 | 超级玛丽smile | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=2ZyxQ9Qswt4)<br />[LacuS: Custom Level 23](https://www.youtube.com/watch?v=dTstCkkr41w) |
 | (2012-09-08\~) |  | Space Rail V3.0 | Space Rail v3.0 | 超级玛丽smile | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=1kpkHy_hjfY) |
@@ -86,7 +86,7 @@
 | 2012-12-09 | 2034863331 | 小小图 | A Little Map | 56308759 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=gPmUQXJjfCo)<br />[LacuS: Custom Level 97](https://www.youtube.com/watch?v=4sQqUcCS0CI) |
 | 2013-01-02 | 2079438968 | 唯一路径V1.1 | Unique Path v1.1 | Burning红云 | 4 | Logical |  |
 | 2013-02-10 | 2158047423 | 平衡小径1.2 | Ballance Trail 1.2 | Burning红云 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=k2qOKPh6ATM)<br />[LacuS: Custom Level 84](https://www.youtube.com/watch?v=R0er-xwPrAU) |
-| 2013-02-13 | 2161447514 | 勇往直前V3.0 | Go Ahead v3.0 | 赢彻 & Gamepiaynmo | 4 | Comprehensive |  |
+| 2013-02-13 | 2161447514 | 勇往直前V3.0 | Go Ahead v3.0 | 赢彻 & Gamepiaynmo | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=v6g06hXEXgA) |
 | 2013-02-23 | 2178820869 | 茉莉思考 | Moli Thinking | ZYL | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=PHLZ7g5aGFs)<br />[LacuS: Custom Level 89](https://www.youtube.com/watch?v=qsTTOyHRzM0) |
 | 2013-02-24 | 2179800503 | 紧张图V1.0 | Nervouser's Map v1.0 | 紧张2007324 | 5 | Technical |  |
 | 2013-03-03 | 2192008736 | 未命名 | Untitled | Tpsoete | 1 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=RvNalqyCJz4)<br />[LacuS: Custom Level 5](https://www.youtube.com/watch?v=TUPGZlt9o1M) |
@@ -181,7 +181,7 @@
 | 2018-12-07 | 5972085310 | 蓝星序曲V1.3 | Blue Star: The Overture v1.3 | Sterd | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5zEnroEc5YU) |
 | 2018-12-28 | N/A | 暂无名图 | Temporarily Nameless | lydjjlyd | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=r8caOxLiLDo)<br />[LacuS: Custom Level 91](https://www.youtube.com/watch?v=k198cRwEc7k) |
 | 2019-01-02 | N/A | 2019新地图 | New Map 2019 | lydjjlyd | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=UOaXs12S_LU) |
-| 2019-02-02 | 6025490905 | 东方夜谭 | Eastern Nights | Perfectthought | 5 | Comprehensive |  |
+| 2019-02-02 | 6025490905 | 东方夜谭 | Eastern Nights | Perfectthought | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=j0la9Bt3m9M) |
 | 2019-02-04 | 6026985302 | 蓝星2：空间工业区(精良) | Blue Star 2: Industrial Area in Space | Sterd | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=S6SHsIK-efU) |
 | 2019-02-04 | 6027051573 | 完美思维3–场景版 | Perfect Thinking v3.0–Scene Ver. | 飘逸冷星 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=Rc8WS7ndntw) |
 | 2019-02-05 | N/A | 逻辑绕绕图 | Circuitous Logic | lydjjlyd | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=nDb_wFVe5gA) |
@@ -224,7 +224,7 @@
 | 2020-03-26 | 6576396155 | 四中挑战01-悬崖勒马 | Sizhong Challenges 01—Rein in the Horse at the Edge of the Precipice | 四中2014届1班 | 1.5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=XaWYFAW7NuY) |
 | 2020-03-26 | 6576396155 | 四中挑战02-狐假虎威 | Sizhong Challenges 02—The Fox Exploits the Tiger's Might | 四中2014届1班 | 2.5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=BMxzPNznBvA) |
 | 2020-03-26 | 6576396155 | 四中挑战03-穷途末路 | Sizhong Challenges 03—End of the Road | 四中2014届1班 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=hJwru285OXo) |
-| 2020-03-27 | 6579792259 | 勇往直前V4.1 | Go Ahead v4.1 | 赢彻 | 5 | Comprehensive |  |
+| 2020-03-27 | 6579792259 | 勇往直前V4.1 | Go Ahead v4.1 | 赢彻 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=m4In9240bUA) |
 | 2020-04-06 | 6599942811 | 四面楚歌2.0 | Be Besieged on All Sides 2.0 | 湮尘灬冷曦 | 4 | Comprehensive |  |
 | 2020-04-07 | 6603118177 | 四中挑战04-天罗地网 | Sizhong Challenges 04—The Sky and the Ground Are Full of Traps and Snares | 四中2014届1班 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=hHMNubpcT2M) |
 | 2020-04-07 | 6603118177 | 四中挑战05-翻山越岭 | Sizhong Challenges 05—Pass Over Mountains and Ridges | 四中2014届1班 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=uAxFog6sy2M) |
@@ -273,7 +273,7 @@
 | 2021-02-04 | 7217559612 | 萌新快乐图2 | Beginners Happiness 2 | dahkjdas | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=9-jqAG7i-bU) |
 | 2021-02-09 | 7223102179 | 原初星辰 | Primordial Stars | dahkjdas | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=xhb084Hplmg)<br />[LacuS: Custom Level 99](https://www.youtube.com/watch?v=pjJlFAx2v9o) |
 | 2021-03-19 | 7267531659 | 迷惑 | Confusing | Ballexer | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=6rEN1HBSQIk) |
-| 2021-04-03 | 7287159398 | 圈套 | Traps | Ballexer | 5 | Technical |  |
+| 2021-04-03 | 7287159398 | 圈套 | Traps | Ballexer & Entity_303 | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=t_egw4zN3ro) |
 | 2021-04-24 | 7317512349 | 路面操作 | Road Controlling | Entity_303 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=iOGwi8mjotQ) |
 | 2021-04-30 | 7326684050 | 逻技地带 | Skillogic Zone | Ballexer | 3 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=T-8EU3KuKhE)<br />[LacuS: Custom Level 63](https://www.youtube.com/watch?v=yVGcGn9bISE) |
 | 2021-05-05 | 7333209128 | 自动图 | Automatic | Ballexer | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=bTLuaz5Un_I)<br />[LacuS: AutoMap](https://www.youtube.com/watch?v=bvR9c2LzQGU) |
@@ -388,3 +388,5 @@
 | 2025-04-30 | N/A | 250430图 | Map 250430 | lydjjlyd | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5ulHkrV51Ro) |
 | 2025-07-03 | 9842782089 | 匹诺康尼城 | Penacony City | 北顾夕 Lonely Snow | 5 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=bQ9blqYOqF8) |
 | 2025-07-11 | N/A | 胶垣漫游 | Traveling on Rubber Walls | 小李子623 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=RhV4wqyOX7Y) |
+| 2025-07-29 | 9910475602 | 海染砗磲 | Ocean-Hued Clam | 北顾夕 Lonely Snow | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ugKJGErDt3A) |
+| 2025-07-29 | 9911796027 | 疯狂路径 | Crazy Path | 平衡四边球 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=ouo8bTPHXpI) |
