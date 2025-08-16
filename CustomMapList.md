@@ -392,3 +392,4 @@
 | 2025-07-29 | 9911796027 | 疯狂路径 | Crazy Path | 平衡四边球 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=ouo8bTPHXpI) |
 | 2025-08-06 | N/A | 海染砗磲（竞速版） | Ocean-Hued Clam (Racing Ver.) | 北顾夕 Lonely Snow | 3 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=KU6b6HXC_XU) |
 | 2025-08-07 | N/A | 失落都市 | Lost Cities | SomeOne_001 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=T-lc66ROeOo) |
+| 2025-08-14 | 9956718653 | 寂灭渊海 | The Tranquil Deep | 四叶草 (dyethx) | 4.5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=ybQE1E0xToo) |
