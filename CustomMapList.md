@@ -1,10 +1,10 @@
 # Ballance Custom Map List
 
-| Posted | Baidu Tieba ID | Original Name | English Name | Author | Difficulty | Type | Videos |
+| Posted | Baidu Tieba ID &<br>Chinese Ballance Forum ID | Original Name | English Name | Author | Difficulty | Type | Videos |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 2009-08-19 | 630462643 | 天马行空 | Pie in the Sky | 失衡技师 | 3 | Comprehensive |  |
 | 2009-08-26 | 634504348 | 十字升降 | Cross Lift | 失衡技师 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=a9G-BC3krCc)<br />[LacuS: Custom Level 6](https://www.youtube.com/watch?v=TIDXMaaKnQ8) |
-| 2009-08-26 | 732291025、732498462 | 美丽图 | Beautiful | 傲骨银狼ヶ璇 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=4gs1JGqWF5I) |
+| 2009-08-26 | 732291025, 732498462 | 美丽图 | Beautiful | 傲骨银狼ヶ璇 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=4gs1JGqWF5I) |
 | 2010-03-16 | 730486053 | 蜜汁图 | Mysterious | 61粉丝 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=m5hXL5kcjVg) |
 | (\~2010-03-20) |  | 迷阵关卡 | Maze Level | 61粉丝 | 5 | Comprehensive |  |
 | (\~2010-03-20) |  | 挑战250V1.0 | Challenge 250 v1.0 | 2jjy | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=XoQxvdBBo4k) |
@@ -327,7 +327,7 @@
 | 2023-01-17 | N/A | LampNightmare | LampNightmare | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=kuKKNeQLnuc)<br />[LacuS: Custom Level 101](https://www.youtube.com/watch?v=a4pvzdHMJRY) |
 | 2023-02-16 | 8267347663 | 单轨森林 | Singular Forest | ZYL | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=BEN-3nJShIU) |
 | 2023-02-24 | 8280169273 | 大恒逻技Ⅱ | Daheng Skillogic Ⅱ | dahkjdas | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=72wvy7qtpgk) |
-| 2023-05-20 | N/A | 神毒鬼道(230623图【V1.0】) | Heretical Toxicity (Map 230623【v1.0】) | 小李子623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=SHW5Hw7zIWc) |
+| 2023-05-20 | C36 | 神毒鬼道(230623图【V1.0】) | Heretical Toxicity (Map 230623【v1.0】) | 小李子623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=SHW5Hw7zIWc) |
 | 2023-05-28 | N/A | The SBlender | The SBlender | speedystoneball | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=W-55ViQ7OOo)<br />[LacuS: Custom Level 104](https://www.youtube.com/watch?v=LUBit343Gso) |
 | 2023-06-01 | N/A | NexusLights | NexusLights | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=378H_uLz4tM)<br />[LacuS: Custom Level 102](https://www.youtube.com/watch?v=80JAt4SaEr0) |
 | 2023-06-09 | N/A | IronWinds | IronWinds | Kry | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=QUcZEiyegPU)<br />[LacuS: Custom Level 103](https://www.youtube.com/watch?v=PCwY62ZpR4Y) |
@@ -337,7 +337,7 @@
 | 2023-08-17 | 8557573293 | 游记：天渊之架 | Travel: Supports of Sky and Abyss | dahkjdas | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=vMqoc78Aw-M) |
 | 2023-08-26 | N/A | Omit Superfluous Things | Omit Superfluous Things | pseudoacetyl | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=83tN5qENvvI) |
 | 2023-08-28 | 8573884923 | 地球之上——第一宇宙速度 | Above the Earth—First Cosmic Velocity | Entity_303 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=zEFbfIxuYII) |
-| 2023-10-01 | N/A | 神逻鬼道 | Heretical Logic | 小李子623 | 4 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=sJ62daMNxaE) |
+| 2023-10-01 | C36 | 神逻鬼道 | Heretical Logic | 小李子623 | 4 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=sJ62daMNxaE) |
 | 2023-10-04 | N/A | Crying Steel | Crying Steel | Kry | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=rUz8N86_hJQ) |
 | 2023-10-12 | N/A | The Masquerade | The Masquerade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=iUJnJQfEGlk)<br />[LacuS](https://www.youtube.com/watch?v=Z6mQLIKQtNo) |
 | 2023-11-11 | 8711954400 | 风扇练习图 | Ventilator Practice | 其乐融融 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=M4ctgvXD9ok) |
@@ -350,14 +350,14 @@
 | 2023-12-18 | N/A | 崎岖赛道 | Winding Track | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=YKp-lYd2B5I) |
 | 2023-12-20 | N/A | 黄金螺旋2.0 | Golden Spiral 2.0 | 其乐融融 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=aQP8oqS4q5s) |
 | 2024-02-04 | N/A | 骨质疏松 | Osteoporosis | 小锂电池 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=zxbD3bPcRUw) |
-| 2024-02-10 | N/A | 多维合作 | Multivariate Cooperation | 小李子623 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=s4eUekVk9Jw) |
+| 2024-02-10 | C36 | 多维合作 | Multivariate Cooperation | 小李子623 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=s4eUekVk9Jw) |
 | 2024-02-25 | N/A | SkyRun-R | SkyRun-R | Kry | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=8_FxpmqCgOY)<br />[LacuS](https://www.youtube.com/watch?v=g2UKe_H-nro) |
 | 2024-04-03 | 8964995082 | 浮空秘境 | Secluded Floating Islands | 湮尘灬冷曦 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=V3efNtpR8FU) |
 | 2024-05-25 | N/A | Blender制图教程示例图 | Demo Map of the Blender Mapping Tutorial | yyc12345 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=XSixq1RXrRc) |
 | 2024-06-08 | 9045331771 | 踏破虚空2.0 | Traveling Through the Void 2.0 | 湮尘灬冷曦 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=2u4AvUJio_0) |
 | 2024-06-16 | N/A | Edge of the Shade | Edge of the Shade | Kry | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=WJPVbtzQbEg) |
 | 2024-06-21 | 9061971811 | 滨海静晚1.0 | A Peaceful Night at the Seashore 1.0 | 9826HZg | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Cei3Gu4VBPI) |
-| 2024-07-13 | N/A | 重力的审判 | Trial of Gravity | 小李子623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=VotyOj5TlOQ) |
+| 2024-07-13 | C36 | 重力的审判 | Trial of Gravity | 小李子623 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=VotyOj5TlOQ) |
 | 2024-08-25 | 9145563541 | 幻实 | Illusion and Reality | Entity_303 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=JAz1IGQi_Ig) |
 | 2024-08-26 | N/A | 异于往日（zzz） | Different From the Past (zzz) | 小锂电池 | 3 | Comprehensive |  |
 | 2024-09-01 | N/A | 20个石球 | 20 Stone Balls | 其乐融融 | 4 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=w8zCmtNyDy4) |
@@ -379,7 +379,7 @@
 | 2025-01-18 | N/A | Ramble Through the Storm | Ramble Through the Storm | pseudoacetyl | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=z3Ee6VCC1zo) |
 | 2025-01-28 | N/A | 逐光之梦 | The Dream of Chasing Light | dahkjdas | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=0iidoY2TY3Y) |
 | 2025-02-08 | N/A | 大佬快乐图 | Dalaos Happiness | 湮尘灬冷曦 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=HaQwboz0WI4) |
-| 2025-02-12 | N/A | 谜雾 | Misty | 小李子623 & Ghomist | 2 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=LtRVZ5WWuVM) |
+| 2025-02-12 | C36 | 谜雾 | Misty | 小李子623 & Ghomist | 2 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=LtRVZ5WWuVM) |
 | 2025-02-17 | N/A | 流浪行星 | Rogue Planet | SomeOne_001 | 2 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=BMpuglo_ITQ) |
 | 2025-02-28 | N/A | 梦回2025 | Dreaming Back to 2025 | 其乐融融 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=MBJzOvgkLVk) |
 | 2025-03-14 | N/A | 仿射空间站 | Affine Space Station | 湮尘灬冷曦 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=1eNcsq678Gc) |
@@ -387,10 +387,10 @@
 | 2025-04-06 | N/A | 泛舟 | Rafting | SomeOne_001 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=Rc-TFRaQ2hU) |
 | 2025-04-30 | N/A | 250430图 | Map 250430 | lydjjlyd | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5ulHkrV51Ro) |
 | 2025-07-03 | 9842782089 | 匹诺康尼城 | Penacony City | 北顾夕 Lonely Snow | 5 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=bQ9blqYOqF8) |
-| 2025-07-11 | N/A | 胶垣漫游 | Traveling on Rubber Walls | 小李子623 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=RhV4wqyOX7Y) |
+| 2025-07-11 | C36 | 胶垣漫游 | Traveling on Rubber Walls | 小李子623 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=RhV4wqyOX7Y) |
 | 2025-07-29 | 9910475602 | 海染砗磲 | Ocean-Hued Clam | 北顾夕 Lonely Snow | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=ugKJGErDt3A) |
 | 2025-07-29 | 9911796027 | 疯狂路径 | Crazy Path | 平衡四边球 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=ouo8bTPHXpI) |
 | 2025-08-06 | N/A | 海染砗磲（竞速版） | Ocean-Hued Clam (Racing Ver.) | 北顾夕 Lonely Snow | 3 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=KU6b6HXC_XU) |
 | 2025-08-07 | N/A | 失落都市 | Lost Cities | SomeOne_001 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=T-lc66ROeOo) |
 | 2025-08-14 | 9956718653 | 寂灭渊海 | The Tranquil Deep | 四叶草 (dyethx) | 4.5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=ybQE1E0xToo) |
-| 2025-08-29 | 9994199612 | 平衡之巅王者试炼之王道征途 | Trial of the Ballance King: Conquering the Royal Road | 平衡四边球 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=6GyCbxNMya4) |
+| 2025-08-29 | 9994199612<br>C18 | 平衡之巅王者试炼之王道征途 | Trial of the Ballance King: Conquering the Royal Road | 平衡四边球 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=6GyCbxNMya4) |
