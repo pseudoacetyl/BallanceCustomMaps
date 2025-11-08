@@ -394,3 +394,4 @@
 | 2025-08-07 | N/A | 失落都市 | Lost Cities | SomeOne_001 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=T-lc66ROeOo) |
 | 2025-08-14 | 9956718653 | 寂灭渊海 | The Tranquil Deep | 四叶草 (dyethx) | 4.5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=ybQE1E0xToo) |
 | 2025-08-29 | 9994199612<br>C18 | 平衡之巅王者试炼之王道征途 | Trial of the Ballance King: Conquering the Royal Road | 平衡四边球 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=6GyCbxNMya4) |
+| 2025-11-04 | N/A | 泅溺幽海 | Lost at Sea | 远来鸣鸠 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=TP6BjeZaijk) |
