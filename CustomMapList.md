@@ -395,3 +395,4 @@
 | 2025-08-14 | 9956718653 | 寂灭渊海 | The Tranquil Deep | 四叶草 (dyethx) | 4.5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=ybQE1E0xToo) |
 | 2025-08-29 | 9994199612<br>C18 | 平衡之巅王者试炼之王道征途 | Trial of the Ballance King: Conquering the Royal Road | 平衡四边球 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=6GyCbxNMya4) |
 | 2025-11-04 | N/A | 泅溺幽海 | Lost at Sea | 远来鸣鸠 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=TP6BjeZaijk) |
+| 2025-11-15 | C62 | 巅峰时刻3之独辟蹊径 | Peak Time 3: Blaze a New Trail | 平衡总统 | 5 | Skillogic | [桜埜叶毣](https://studio.youtube.com/video/X-ZNjbNztPg/edit) |
