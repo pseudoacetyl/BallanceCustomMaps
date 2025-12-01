@@ -396,3 +396,5 @@
 | 2025-08-29 | 9994199612<br>C18 | 平衡之巅王者试炼之王道征途 | Trial of the Ballance King: Conquering the Royal Road | 平衡四边球 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=6GyCbxNMya4) |
 | 2025-11-04 | N/A | 泅溺幽海 | Lost at Sea | 远来鸣鸠 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=TP6BjeZaijk) |
 | 2025-11-15 | C62 | 巅峰时刻3之独辟蹊径 | Peak Time 3: Blaze a New Trail | 平衡总统 | 5 | Skillogic | [桜埜叶毣](https://studio.youtube.com/video/X-ZNjbNztPg/edit) |
+| 2025-12-01 | C67 | 真·比欧图——纸球运气测试图 | realBo (Paper Ball Luck Test Map) | BallanceBug | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=14qd--nUNiQ) |
+| 2025-12-01 | C67 | 真·比欧图（木球版） | realBo (Wooden Ball Ver.) | BallanceBug | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=Ro_HRkHmHpo) |
