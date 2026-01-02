@@ -400,3 +400,4 @@
 | 2025-12-01 | C67 | 真·比欧图（木球版） | realBo (Wooden Ball Ver.) | BallanceBug | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=Ro_HRkHmHpo) |
 | 2025-12-23 | C73 | 飞跃星海 | Across the Sea of Stars | 湮尘灬冷曦 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=K25zJxf7EYc) |
 | 2026-01-01 | N/A | Happy 2026 | Happy 2026 | pseudoacetyl | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=uJ7ssABiByc) |
+| 2026-01-01 | N/A | 星穹呓语 | Celestial Whispers | 湮尘灬冷曦 | 3.5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=7A0WBJ_VVTo) |
