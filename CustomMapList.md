@@ -402,3 +402,4 @@
 | 2026-01-01 | N/A | Happy 2026 | Happy 2026 | pseudoacetyl | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=uJ7ssABiByc) |
 | 2026-01-01 | N/A | 星穹呓语 | Celestial Whispers | 湮尘灬冷曦 | 3.5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=7A0WBJ_VVTo) |
 | 2026-02-02 | 10453410481 | 未能抵达的天空 | Unattainable Sky | Entity_303 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=sqQg4zqOL6U) |
+| 2026-02-15 | C78 | 命运的坐标 | Destiny Coordinates | 小李子623 | 5 | Comprehensive |  |
