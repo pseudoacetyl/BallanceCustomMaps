@@ -395,7 +395,7 @@
 | 2025-08-14 | 9956718653 | 寂灭渊海 | The Tranquil Deep | 四叶草 (dyethx) | 4.5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=ybQE1E0xToo) |
 | 2025-08-29 | 9994199612<br>C18 | 平衡之巅王者试炼之王道征途 | Trial of the Ballance King: Conquering the Royal Road | 平衡四边球 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=6GyCbxNMya4) |
 | 2025-11-04 | N/A | 泅溺幽海 | Lost at Sea | 远来鸣鸠 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=TP6BjeZaijk) |
-| 2025-11-15 | C62 | 巅峰时刻3之独辟蹊径 | Peak Time 3: Blaze a New Trail | 平衡总统 | 5 | Skillogic | [桜埜叶毣](https://studio.youtube.com/video/X-ZNjbNztPg/edit) |
+| 2025-11-15 | C62 | 巅峰时刻3之独辟蹊径 | Peak Time 3: Blaze a New Trail | 平衡总统 | 5 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=X-ZNjbNztPg) |
 | 2025-12-01 | C67 | 真·比欧图——纸球运气测试图 | realBo (Paper Ball Luck Test Map) | BallanceBug | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=14qd--nUNiQ) |
 | 2025-12-01 | C67 | 真·比欧图（木球版） | realBo (Wooden Ball Ver.) | BallanceBug | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=Ro_HRkHmHpo) |
 | 2025-12-23 | C73 | 飞跃星海 | Across the Sea of Stars | 湮尘灬冷曦 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=K25zJxf7EYc) |
@@ -404,3 +404,11 @@
 | 2026-02-02 | 10453410481 | 未能抵达的天空 | Unattainable Sky | Entity_303 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=sqQg4zqOL6U) |
 | 2026-02-15 | C78 | 命运的坐标 | Destiny Coordinates | 小李子623 | 5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=C67IaiqzG-s) |
 | 2026-04-21 | C90 | 未完成的山荷叶 | Unfinished Diphylleia | yyc12345 | 1 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=JOWdGYRoSdg) |
+| 2026-05-29 | C96 | 失落之城v1.1 | Lost City v1.1 | ZYL & 平衡四边球 | 4 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=wlVY1vrUKm0) |
+| 2026-06-01 | C97 | 天无绝路 | Never Without a Path | 小李子623 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=73fV5eH3FtU) |
+| 2026-06-08 | C99 | 堤基路坝v2.0 | Obstacles on the Levee Foundation v2.0 | 平衡四边球 | 3 | Puzzle | [桜埜叶毣](https://www.youtube.com/watch?v=5_ybYIliQ38) |
+| 2026-06-14 | C100 | 天无绝路(雨灵版) | Never Without a Path (yuling Ver.) | 飘动的雨灵 | 5 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=89gbmcskpp4) |
+| 2026-06-20 | N/A | Seeing Red | Seeing Red | pseudoacetyl | 5 | Technical |  |
+| 2026-06-21 | 10808889456 | 平衡小径5.0 | Ballance Trail 5.0 | Burning红云 | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=OURjLT5-qTc) |
+| 2026-06-21 | C101 | 失落原野 | Lost Wild | SomeOne_001 | 4.5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=oPPb7MPN_co) |
+| 2026-06-23 | C103 | 中轴线 | Central Axis | 小锂电池 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=3D1sdyBke9M) |
