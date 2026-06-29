@@ -412,3 +412,4 @@
 | 2026-06-21 | 10808889456 | 平衡小径5.0 | Ballance Trail 5.0 | Burning红云 | 5 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=OURjLT5-qTc) |
 | 2026-06-21 | C101 | 失落原野 | Lost Wild | SomeOne_001 | 4.5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=oPPb7MPN_co) |
 | 2026-06-23 | C103 | 中轴线 | Central Axis | 小锂电池 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=3D1sdyBke9M) |
+| 2026-06-28 | C105 | 青云阶梯 | Stairway to the Clouds | Eureka | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qmQCs3k9Tyo) |
