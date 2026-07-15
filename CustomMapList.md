@@ -413,4 +413,6 @@
 | 2026-06-21 | C101 | 失落原野 | Lost Wild | SomeOne_001 | 4.5 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=oPPb7MPN_co) |
 | 2026-06-23 | C103 | 中轴线 | Central Axis | 小锂电池 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=3D1sdyBke9M) |
 | 2026-06-28 | C105 | 青云阶梯 | Stairway to the Clouds | Eureka | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=qmQCs3k9Tyo) |
+| 2026-07-03 | N/A | 示例小图 | Short Demo Map | 不药而愈的匿名安慰 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=YFzV30dlpAg) |
 | 2026-07-07 | C108 | Level++ 9 | Level++ 9 | 不药而愈的匿名安慰 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=tsf1WttG-TQ) |
+| 2026-07-12 | C109 | 伊球晶 | Strive for Excellence | 飘动的雨灵 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=6uvQgJOPunY) |
