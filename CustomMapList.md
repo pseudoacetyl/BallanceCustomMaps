@@ -416,3 +416,8 @@
 | 2026-07-03 | N/A | 示例小图 | Short Demo Map | 不药而愈的匿名安慰 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=YFzV30dlpAg) |
 | 2026-07-07 | C108 | Level++ 9 | Level++ 9 | 不药而愈的匿名安慰 | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=tsf1WttG-TQ) |
 | 2026-07-12 | C109 | 伊球晶 | Strive for Excellence | 飘动的雨灵 | 3 | Logical | [桜埜叶毣](https://www.youtube.com/watch?v=6uvQgJOPunY) |
+| 2026-07-17 | C111 | 死与新生 | Death and Rebirth | SomeOne_001 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=NGeyYxISprY) |
+| 2026-07-19 | C112 | 对号入座 | Find Your Place | 不药而愈的匿名安慰 | 2 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=kpa3Yr9zfzA) |
+| 2026-07-19 | C113 | 岁月长夜V1.1 | The Long Night of Ages v1.1 | 四叶草 (dyethx) | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=UAvmmVzN4Dc) |
+| 2026-07-20 | C114 | Level+++3 | Level+++3 | 不药而愈的匿名安慰 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=DkOioVzhwCc) |
+| 2026-07-23 | C115 | 机关迷阵 | Mechanical Maze | SomeOne_001 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=0Lr1_zIU6yU) |
