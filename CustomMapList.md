@@ -421,3 +421,4 @@
 | 2026-07-19 | C113 | 岁月长夜V1.1 | The Long Night of Ages v1.1 | 四叶草 (dyethx) | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=UAvmmVzN4Dc) |
 | 2026-07-20 | C114 | Level+++3 | Level+++3 | 不药而愈的匿名安慰 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=DkOioVzhwCc) |
 | 2026-07-23 | C115 | 机关迷阵 | Mechanical Maze | SomeOne_001 | 1 | Racing | [桜埜叶毣](https://www.youtube.com/watch?v=0Lr1_zIU6yU) |
+| 2026-08-01 | C117 | 260801图 | Map 260801 | 小锂电池 | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=bhBiSnmG2ao) |
