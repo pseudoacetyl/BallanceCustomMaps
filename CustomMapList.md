@@ -426,3 +426,4 @@
 | 2026-08-10 | C120 | 巴伦斯市demo | Ballance City Demo | 平衡四边球 | 1 | Landscape | [桜埜叶毣](https://www.youtube.com/watch?v=ABzZK9HBKBc) |
 | 2026-08-16 | C123 | 地球之上——镜像太空城 | Above the Earth—Mirror Space City | Entity_303 | 4 | Landscape | [桜埜叶毣](https://www.youtube.com/watch?v=jQJHTuIuRWc) |
 | 2026-08-31 | C126 | 美丽新世界 | Beautiful New World | 不药而愈的匿名安慰 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=EBg3zTljW7c) |
+| 2026-09-11 | N/A | 钢轨大王的复仇 | Revenge of the Rail King | 飘动的雨灵 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=yMOc9bKl3B0) |
