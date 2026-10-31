@@ -428,3 +428,5 @@
 | 2026-08-31 | C126 | 美丽新世界 | Beautiful New World | 不药而愈的匿名安慰 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=EBg3zTljW7c) |
 | 2026-09-11 | N/A | 钢轨大王的复仇 | Revenge of the Rail King | 飘动的雨灵 | 4 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=yMOc9bKl3B0) |
 | 2026-09-25 | C130 | Level_1_Extension | Level_1_Extension | SomeOne_001 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5KfEN3nKiWw) |
+| 2026-10-12 | C134 | Gevel_01 | Gevel_01 | Eureka | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=kBWXb94gvII) |
+| 2026-10-24 | C139 | Level++ 5 | Level++ 5 | 不药而愈的匿名安慰 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=RYyTLi2tySg) |
