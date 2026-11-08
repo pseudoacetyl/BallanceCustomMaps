@@ -430,3 +430,7 @@
 | 2026-09-25 | C130 | Level_1_Extension | Level_1_Extension | SomeOne_001 | 3 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=5KfEN3nKiWw) |
 | 2026-10-12 | C134 | Gevel_01 | Gevel_01 | Eureka | 4 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=kBWXb94gvII) |
 | 2026-10-24 | C139 | Level++ 5 | Level++ 5 | 不药而愈的匿名安慰 | 4 | Skillogic | [桜埜叶毣](https://www.youtube.com/watch?v=RYyTLi2tySg) |
+| 2026-11-01 | N/A | 逃离——FG_Example_Level | Escape—FG_Example_Level | Entity_303 | 2 | Comprehensive | [桜埜叶毣](https://www.youtube.com/watch?v=cAGvS8cGMns) |
+| 2026-11-02 | N/A | THREE_BALLS | THREE_BALLS | doyaGu & AI | 1 | Casual | [桜埜叶毣](https://www.youtube.com/watch?v=GUWzZlWZdfs) |
+| 2026-11-03 | C140 | 即兴图(正式版) | Improvisational (Gold) | 不药而愈的匿名安慰 | 2 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=LrnbCuhL8HQ) |
+| 2026-11-07 | C145 | 即兴图(正式版)2 | Improvisational 2 (Gold) | 不药而愈的匿名安慰 | 3 | Technical | [桜埜叶毣](https://www.youtube.com/watch?v=2O1Ifc38WSQ) |
